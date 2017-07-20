@@ -28,9 +28,10 @@ let renderPositionWithMessage = function(position, msg) {
   VISITED[""+position] = visited;
   outset = outset * visited;
   let text = draw.text("" + msg);
+  let dx = text.length() / 2;
   text = text.font({ fill: '#66f', family: 'monospace' });
 //  text.move(0,0).rotate(-ANGLE, OFFSET, OFFSET).move(Cx, OFFSET).rotate(ANGLE, Cx, Cy).font({ fill: '#66f', family: 'Inconsolata' });
-  text.move(Cx, OFFSET-outset).rotate(ANGLE, Cx, Cy);
+  text.move(Cx - dx, OFFSET-4-outset).rotate(ANGLE, Cx, Cy);
 
 }
 
