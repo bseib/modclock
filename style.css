@@ -5,19 +5,105 @@ html {
   color: #333;
 }
 body {
-  background-color: #f9f9f9;
+  background-color: #f9f9e9; /*#f9f9f9;*/
 }
 input, button {
   font-size: 1rem;
 }
 
-/* modexp page */
+/* modexp */
+.close {
+  position: absolute;
+  font-size: 1.2rem;
+  top:0.1em;
+  right: 0.3em;
+}
+
+.comment {
+  width: 24em;
+  height: 75px;
+  padding-left: 20px;
+  position: relative;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.comment .comment-bar {
+  position: absolute;
+  margin-left: 5px;
+  width: 5px;
+  height: 75px;
+  left: 0;
+  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQYV2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXQdISfAAAAAElFTkSuQmCC) repeat;
+}
+.comment .editor {
+  min-height: 75px;
+  margin-right: 30px;
+}
+
 .solver {
-  margin-top: 1em;
+  position: relative;
+  width: 24em;
+}
+.solver-tag {
+  position: absolute;
+  font-size: 0.8em;
+  color: #666;
+  padding: 0.2em 0.8em;
+  border-radius: 0.25rem;
+  z-index: 10;
+}
+.solver-tag:not(:empty) {
+  background-color: #eee;
+}
+.solver-tag-corner {
+  left: -5px;
+  top: -5px;
+}
+.solver-tag-code {
+  left: 15px;
+  bottom: -10px;
+  min-width: 60px;
+}
+.solver-tag-key {
+  left: 85px;
+  bottom: -10px;
+  min-width: 155px;
+}
+.solver-tag-bottom {
+  text-align: center;
+}
+.solver-tag-bottom:not(:empty) {
+  background-color: rgba(196, 231, 247, 0.52);
 }
 
 
-/* extra */
+.modexp {
+}
+.modexp > span.op {
+  font-size: 1.3em;
+}
+.modexp input {
+	width: 2em;
+	display: inline;
+	text-align: center;
+	font-size: 1.9em;
+  border-bottom: 1px dotted black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  z-index: 20;
+}
+.modexp input[type=number]::-webkit-inner-spin-button,
+.modexp input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.modexp .base {
+
+}
+
+
+/* modclock */
 
 #drawing {
   outline: #eee dashed thin;
@@ -44,27 +130,4 @@ input, button {
 }
 .f-row {
   margin-bottom: 10px;
-}
-
-
-.modexp {
-	padding: 1em;
-	margin: 0.5em;
-	border: 1px solid #999;
-	border-radius: 5px;
-	box-shadow: 2px 2px 2px #ddd;
-}
-.modexp input {
-	width: 2.3em;
-	display: inline;
-	text-align: center;
-	font-size: 2.2em;
-}
-.modexp input[type=number]::-webkit-inner-spin-button,
-.modexp input[type=number]::-webkit-outer-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-.modexp .base {
-
 }

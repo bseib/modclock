@@ -8,6 +8,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
+<link rel="stylesheet" type="text/css" href="open-iconic/css/open-iconic-bootstrap.css">
+
 <link rel="stylesheet" type="text/css" href="style.css">
 
 <script src="https://unpkg.com/vue"></script>
@@ -19,47 +21,65 @@
 
 	<div id="mod-exp-app" >
 
-		<div id="modexp-tmpl" style="display: none;">
-			<div class="card solver" style="width:20em">
+		<script id="modexp-tmpl" type="x-template">
+		  <div class="comment mb-5 mr-3" v-if="isShowComment">
+				<button type="button" class="close" aria-label="Close" v-on:click="close">
+				  <span aria-hidden="true">&times;</span>
+				</button>
+				<div class="comment-bar"></div>
+				<div class="editor" contenteditable="true" spellcheck="false"></div>
+			</div>
+
+			<div class="solver card mb-5 mr-3" v-else-if="isShowSolver">
+				<button type="button" class="close" aria-label="Close" v-on:click="close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+				<div class="solver-tag solver-tag-corner" contenteditable="true" spellcheck="false"></div>
+				<div class="solver-tag solver-tag-code solver-tag-bottom" contenteditable="true" spellcheck="false"></div>
+				<div class="solver-tag solver-tag-key solver-tag-bottom" contenteditable="true" spellcheck="false"></div>
 				<div class="card-body">
 					<div class="modexp">
-						<span class="answer">
-							A =
-		        </span>
+
 		        <span class="base">
-		          <input type="number" class="" id="base" placeholder="B">
+		          <input type="number" class="" id="base" placeholder="B" v-model="B" v-on:keyup="computeA">
 		        </span>
+						<span class="exp op">^</span>
 		        <span class="exponent">
-		          <input type="number" class="" id="exponent" placeholder="e">
+		          <input type="number" class="" id="exponent" placeholder="e" v-model="e" v-on:keyup="computeA">
 		        </span>
-		        <span class="mod">mod</span>
+		        <span class="mod op">mod</span>
 		        <span class="modulus">
-		          <input type="number" class="" id="modulus" placeholder="m">
+		          <input type="number" class="" id="modulus" placeholder="m" v-model="m" v-on:keyup="computeA">
 		        </span>
+
+						<button class="btn btn-info btn-sm mb-2" v-on:click="computeA" style="display:none">
+							<span class="oi oi-calculator"></span>
+							<span class="oi oi-arrow-thick-right"></span>
+						</button>
+						<span class="equals op">=</span>
+
+						<span class="answer">
+							<input type="number" class="" id="answer" placeholder="?" readonly v-model="A">
+		        </span>
+
 		      </div>
 				</div>
 			</div>
-		</div>
+		</script>
 
-		<div class="container main" style="margin-top:1.5em">
+		<div class="container mt-4">
+
 			<div class="d-flex flex-row mb-5">
 				<h2>Mod Pow Calculator</h2>
-				<button class="btn btn-secondary btn-sm" style="margin-left:2em" v-on:click="addSolver">new solver</button>
+				<button class="btn btn-link btn-sm" style="margin-left:2em" v-on:click="addSolver">new solver</button>
+				<button class="btn btn-link btn-sm" style="margin-left:1em" v-on:click="addComment">new comment</button>
 			</div>
 
-			<div is="mod-exp" v-for="solver in solvers" v-bind:slvr="solver"></div>
+			<div class="d-flex flex-row flex-wrap">
+				<div is="mod-exp" v-for="s in solvers" v-on:close-solver="closeSolver" :key="s.id" :id="s.id" v-bind:kind="s.kind"></div>
+			</div>
 
 		</div>
-
-
-
-
-	  <div class="container">
-	    <div class="row">
-
-	    </div>
-	  </div>
-
 	</div>
 
 
