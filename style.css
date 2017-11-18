@@ -4,10 +4,20 @@ html {
   font-size: 14px;
   color: #333;
 }
+body {
+  background-color: #f9f9f9;
+}
 input, button {
   font-size: 1rem;
 }
 
+/* modexp page */
+.solver {
+  margin-top: 1em;
+}
+
+
+/* extra */
 
 #drawing {
   outline: #eee dashed thin;
@@ -34,4 +44,27 @@ input, button {
 }
 .f-row {
   margin-bottom: 10px;
+}
+
+
+.modexp {
+	padding: 1em;
+	margin: 0.5em;
+	border: 1px solid #999;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px #ddd;
+}
+.modexp input {
+	width: 2.3em;
+	display: inline;
+	text-align: center;
+	font-size: 2.2em;
+}
+.modexp input[type=number]::-webkit-inner-spin-button,
+.modexp input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.modexp .base {
+
 }
