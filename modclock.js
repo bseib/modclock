@@ -5,6 +5,8 @@ let OFFSET = (SZ - R)/2;
 let Cx = R / 2 + OFFSET;
 let Cy = R / 2 + OFFSET;
 let VISITED = {};
+let C_BLUE = '#66f';
+let C_RED = '#f66';
 
 let renderClockFace = function(N) {
   let circle = draw.circle(R).attr({ fill: '#ccf' }).move(OFFSET,OFFSET);
@@ -17,7 +19,7 @@ let renderClockFace = function(N) {
   }
 }
 
-let renderPositionWithMessage = function(position, msg) {
+let renderPositionWithMessage = function(position, msg, color) {
   let ANGLE = (360 / getInputModulo()) * position;
   let outset = 14;
   let visited = VISITED[""+position];
@@ -29,7 +31,7 @@ let renderPositionWithMessage = function(position, msg) {
   outset = outset * visited;
   let text = draw.text("" + msg);
   let dx = text.length() / 2;
-  text = text.font({ fill: '#66f', family: 'monospace' });
+  text = text.font({ fill: color, family: 'monospace' });
 //  text.move(0,0).rotate(-ANGLE, OFFSET, OFFSET).move(Cx, OFFSET).rotate(ANGLE, Cx, Cy).font({ fill: '#66f', family: 'Inconsolata' });
   text.move(Cx - dx, OFFSET-4-outset).rotate(ANGLE, Cx, Cy);
 
@@ -46,7 +48,7 @@ let onMark = function() {
   var base = getInputBase();
   var exponent = getInputExponent();
   var modulo = getInputModulo();
-  doModuloMath(base, exponent, modulo)
+  doModuloMath(base, exponent, modulo, exponent, C_RED);
 }
 
 let onWalk = function() {
@@ -55,14 +57,24 @@ let onWalk = function() {
   var exponent = getInputExponent();
   var modulo = getInputModulo();
   for ( var i = 1; i < modulo ; i++ ) {
-    doModuloMath(base, i, modulo)
+    doModuloMath(base, i, modulo, i, C_RED)
   }
 }
 
-let doModuloMath = function(base, exponent, modulo) {
-  var answer = bigInt(base).modPow(exponent, modulo);
+let onWalk2 = function() {
+  onRender();
+  var base = getInputBase();
+  var exponent = getInputExponent();
+  var modulo = getInputModulo();
+  for ( var i = 0; i < modulo ; i++ ) {
+    doModuloMath(i, exponent, modulo, i, C_BLUE)
+  }
+}
+
+let doModuloMath = function(base, exponent, modulo, msg, color) {
+  var answer = bigInt(base).modPow(exponent, modulo);//.toJSNumber();
   appendLogWithMathyStuff(base, exponent, modulo, answer);
-  renderPositionWithMessage(answer.value, exponent);
+  renderPositionWithMessage(answer.value, msg, color);
 }
 
 let appendLogWithMathyStuff = function(base, exponent, modulo, answer) {

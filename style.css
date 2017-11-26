@@ -44,6 +44,9 @@ input, button {
   position: relative;
   width: 24em;
 }
+.solver2 {
+  width: 31em;
+}
 .solver-tag {
   position: absolute;
   font-size: 0.8em;
@@ -69,6 +72,25 @@ input, button {
   bottom: -10px;
   min-width: 155px;
 }
+.solver-tag-key2 {
+  left: 85px;
+  bottom: -10px;
+  min-width: 250px;
+}
+.solver-tag-ed {
+  text-align: center;
+  left: 120px;
+  top: 6px;
+  min-width: 75px;
+}
+.solver-tag-ed:not(:empty) {
+  background-color: #ffffff00;
+  border-left: 1px dashed #aaa;
+  border-right: 1px dashed #aaa;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  padding: 0;
+}
 .solver-tag-bottom {
   text-align: center;
 }
@@ -78,6 +100,10 @@ input, button {
 
 
 .modexp {
+}
+.modexp .secret {
+  -webkit-text-security: square;
+  color: #939;
 }
 .modexp > span.op {
   font-size: 1.3em;

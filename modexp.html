@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Modular Exponentiation</title>
+<title>ModExp</title>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -41,15 +41,15 @@
 					<div class="modexp">
 
 		        <span class="base">
-		          <input type="number" class="" id="base" placeholder="B" v-model="B" v-on:keyup="computeA">
+		          <input type="number" class="" v-bind:class="{secret: secret['b']}" id="base" placeholder="B" v-model="B" v-on:keyup="computeA" v-on:keyup.72="toggleSecret('b')">
 		        </span>
 						<span class="exp op">^</span>
 		        <span class="exponent">
-		          <input type="number" class="" id="exponent" placeholder="e" v-model="e" v-on:keyup="computeA">
+		          <input type="number" class="" v-bind:class="{secret: secret['e']}" id="exponent" placeholder="e" v-model="e" v-on:keyup="computeA" v-on:keyup.72="toggleSecret('e')">
 		        </span>
 		        <span class="mod op">mod</span>
 		        <span class="modulus">
-		          <input type="number" class="" id="modulus" placeholder="m" v-model="m" v-on:keyup="computeA">
+		          <input type="number" class="" id="modulus" placeholder="n" v-model="m" v-on:keyup="computeA">
 		        </span>
 
 						<button class="btn btn-info btn-sm mb-2" v-on:click="computeA" style="display:none">
@@ -65,6 +65,43 @@
 		      </div>
 				</div>
 			</div>
+
+			<div class="solver solver2 card mb-5 mr-3" v-else-if="isShowSolver2">
+				<button type="button" class="close" aria-label="Close" v-on:click="close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+				<div class="solver-tag solver-tag-corner" contenteditable="true" spellcheck="false"></div>
+				<div class="solver-tag solver-tag-code solver-tag-bottom" contenteditable="true" spellcheck="false"></div>
+				<div class="solver-tag solver-tag-key2 solver-tag-bottom" contenteditable="true" spellcheck="false"></div>
+				<div class="solver-tag solver-tag-ed" v-text="ed"></div>
+				<div class="card-body">
+					<div class="modexp">
+
+		        <span class="base">
+		          <input type="number" class="" v-bind:class="{secret: secret['b']}" id="base" placeholder="B" v-model="B" v-on:keyup="computeA" v-on:keyup.72="toggleSecret('b')">
+		        </span>
+						<span class="exp op">^ (</span>
+						<span class="exponent">
+		          <input type="number" class="" v-bind:class="{secret: secret['e']}" id="exponent" placeholder="e" v-model="e" v-on:keyup="computeA" v-on:keyup.72="toggleSecret('e')">
+		        </span>
+		        <span class="mod times">*</span>
+						<span class="exponent">
+		          <input type="number" class="" v-bind:class="{secret: secret['d']}" id="exponent" placeholder="d" v-model="d" v-on:keyup="computeA" v-on:keyup.72="toggleSecret('d')">
+		        </span>
+		        <span class="mod op">) mod</span>
+		        <span class="modulus">
+		          <input type="number" class="" id="modulus" placeholder="n" v-model="m" v-on:keyup="computeA">
+		        </span>
+						<span class="equals op">=</span>
+						<span class="answer">
+							<input type="number" class="" id="answer" placeholder="?" readonly v-model="A">
+		        </span>
+
+		      </div>
+				</div>
+			</div>
+
+
 		</script>
 
 		<div class="container mt-4">
@@ -72,7 +109,9 @@
 			<div class="d-flex flex-row mb-5">
 				<h2>Mod Pow Calculator</h2>
 				<button class="btn btn-link btn-sm" style="margin-left:2em" v-on:click="addSolver">new solver</button>
+				<button class="btn btn-link btn-sm" style="margin-left:1em" v-on:click="addSolver2">new solver2</button>
 				<button class="btn btn-link btn-sm" style="margin-left:1em" v-on:click="addComment">new comment</button>
+				<a href="modclock.html" class="btn btn-link btn-sm" style="margin-left:3em">mod clock <span class="oi oi-external-link" style="font-size: 0.7em;"></span></a>
 			</div>
 
 			<div class="d-flex flex-row flex-wrap">

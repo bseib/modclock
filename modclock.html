@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ModClock</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" type="text/css" href="open-iconic/css/open-iconic-bootstrap.css">
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <script src="https://unpkg.com/vue"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/2.6.0/svg.js"></script>
+  <script src="BigInteger.min.js"></script>
+
+</head>
+<body>
+  <div class="container mt-4">
+
+    <div class="d-flex flex-row mb-5">
+      <h2>Mod Clock</h2>
+      <a href="modexp.html" class="btn btn-link btn-sm" style="margin-left:4em">mod exp solver <span class="oi oi-external-link" style="font-size: 0.7em;"></span></a>
+    </div>
+
+  </div>
+
+	<div class="flex-columns">
+    <div class="f-col">
+      <div id="drawing"></div>
+    </div>
+    <div class="f-col">
+      <div class="f-row">
+        modulo = <input id="modulo" type="number" maxlength="2" value="15" style="width:40px;">
+        <button onclick="onRender()">Render</button>
+      </div>
+      <div class="f-row">
+        base = <input id="base" type="number" maxlength="3" value="1" style="width:40px;">
+      </div>
+      <div class="f-row">
+        exponent = <input id="exponent" type="number" maxlength="3" value="33" style="width:40px;">
+        <button onclick="onMark()">Mark</button>
+      </div>
+      <div class="f-row">
+        <button onclick="onWalk()">Walk The exps</button>
+        <button onclick="onWalk2()">Walk The bases</button>
+      </div>
+
+      <div id="logs">
+      </div>
+    </div>
+  </div>
+  <script src="modclock.js"></script>
+</body>
+</html>
