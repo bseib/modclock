@@ -66,7 +66,8 @@ let onWalk2 = function() {
   var base = getInputBase();
   var exponent = getInputExponent();
   var modulo = getInputModulo();
-  for ( var i = 0; i < modulo ; i++ ) {
+  var rounds = getInputRounds();
+  for ( var i = 0; i < (modulo*rounds) ; i++ ) {
     doModuloMath(i, exponent, modulo, i, C_BLUE)
   }
 }
@@ -112,6 +113,9 @@ let getInputBase = function() {
 }
 let getInputExponent = function() {
   return document.getElementById("exponent").value;
+}
+let getInputRounds = function() {
+  return document.getElementById("rounds").value;
 }
 
 renderClockFace(getInputModulo());
