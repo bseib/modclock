@@ -9,9 +9,11 @@ coming from.
 ## Mod Power Calculators Page
 [https://bseib.github.io/modclock/modexp.html](https://bseib.github.io/modclock/modexp.html)
 
+![mod pow calculator](https://bseib.github.io/modclock/doc/modpow.png)
+
+
 ## Mod Clock Page
 [https://bseib.github.io/modclock/modclock.html](https://bseib.github.io/modclock/modclock.html)
 
+![mod clock](https://bseib.github.io/modclock/doc/modclock.png)
 
-
-[Link](url) and ![Image](src)
