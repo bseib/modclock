@@ -1,5 +1,7 @@
 ## Welcome to modclock repo
 
+Read Me here: [https://bseib.github.io/modclock/](https://bseib.github.io/modclock/)
+
 I put together these web pages to illustrate and demo some concepts around RSA
 encryption. There is a "modulus clock" page that will walk a circle, mod n. The
 other page can create multiple power mod calculators, to do the basic work to
