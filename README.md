@@ -30,6 +30,10 @@ supplied. Good for illustrating putting `M` in and getting `M` back out.
 Click the `comment` link at the top to add a comment field to the screen. You can click in the
 comment area and type what ever you want. Comment blocks are dismissable too.
 
+Note: All the input fields are type="number", meaning you can use the up and down arrow keys to
+quickly cycle through different input values. This is useful when demonstrating M^(e*d)mod n = M.
+You can use arrow keys to show that no matter what you stick in, you get the same value back out.
+
 ## Mod Clock Page
 [https://bseib.github.io/modclock/modclock.html](https://bseib.github.io/modclock/modclock.html)
 
