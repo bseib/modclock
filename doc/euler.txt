@@ -1,0 +1,984 @@
+1725
+
+E1 Constructio linearum isochronarum in medio quocunque resistente presented 1726, published 1726. 
+1726
+
+E4 Meditationes super problemate nautico, quod illustrissima regia Parisiensis Academia scientarum proposuit presented 1727, published 1728. 
+1727
+
+E2 Dissertatio physica de sono presented 1727, published 1727. 
+E3 Methodus inveniendi traiectorias reciprocas algebraicas presented 1727, published 1727. 
+1728
+
+E5 Problematis traiectoriarum reciprocarum solutio presented 1727, published 1729. 
+E6 Dissertatio de novo quodam curvarum tautochronarum genere presented 1727, published 1729. 
+E7 Tentamen explicationis phaenomenorum aeris presented 1727, published 1729. 
+E10 Nova methodus innumerabiles aequationes differentiales secundi gradus reducendi ad aequationes differentiales primi gradus presented 1728, published 1732. 
+1729
+
+E12 De innumerabilibus curvis tautochronis in vacuo presented 1729, published 1735. 
+E13 Curva tautochrona in fluido resistentiam faciente secundum quadrata celeritatum presented 1729, published 1735. 
+E19 De progressionibus transcendentibus seu quarum termini generales algebraice dari nequeunt presented 1730, published 1738. 
+E788 Briefe von L. Euler an Chr. Goldbach 1729-1763 presented various, published various. 
+1730
+
+E8 Solutio problematis de invenienda curva, quam format lamina utcunque elastica in singulis punctis a potentiis quibuscunque sollicitata presented 1728, published 1732. 
+E9 De linea brevissima in superficie quacunque duo quaelibet puncta iungente presented 1728, published 1732. 
+1731
+
+E20 De summatione innumerabilium progressionum presented 1730, published 1738. 
+E22 De communicatione motus in collisione corporum presented 1730, published 1738. 
+E24 Solutio singularis casus circa tautochronismum presented 1732, published 1738. 
+E33 Tentamen novae theoriae musicae presented 1739, published 1739. 
+1732
+
+E14 Solutio problematis astronomici ex datis tribus stellae fixae altitudinibus et temporum differentiis invenire elevationem poli et declinationem stellae. Auct. L. Eulero presented 1729, published 1735. 
+E21 Quomodo data quacunque curva inveniri oporteat aliam quae cum data quodammodo iuncta ad tautochronismum producendum sit idonea presented 1730, published 1738. 
+E25 Methodus generalis summandi progressiones presented 1732, published 1738. 
+E26 Observationes de theoremate quodam Fermatiano aliisque ad numeros primos spectantibus presented 1732, published 1738. 
+E27 Problematis isoperimetrici in latissimo sensu accepti solutio generalis presented 1732, published 1738. 
+1733
+
+E11 Constructio aequationum quarundam differentialium, quae indeterminatarum separationem non admittunt presented 1733, published 1733. 
+E28 Specimen de constructione aequationum differentialium sine indeterminatarum separatione presented 1732, published 1738. 
+E29 De solutione problematum diophanteorum per numeros integros presented 1732, published 1738. 
+E30 De formis radicum aequationum cuiusque ordinis coniectatio presented 1732, published 1738. 
+E31 Constructio aequationis differentialis ax^n dx = dy + y^2 dx presented 1732, published 1738. 
+1734
+
+E15 Mechanica, volume 1 presented 1736, published 1736. 
+E42 De linea celerrimi descensus in medio quocunque resistente presented 1734, published 1740. 
+E43 De progressionibus harmonicis observationes presented 1734, published 1740. 
+E44 De infinitis curvis eiusdem generis seu methodus inveniendi aequationes pro infinitis curvis eiusdem generis presented 1734, published 1740. 
+E45 Additamentum ad dissertationem de infinitis curvis eiusdem generis presented 1734, published 1740. 
+E48 Investigatio binarum curvarum, quarum arcus eidem abscissae respondentes summam algebraicam constituant presented 1736, published 1741. 
+E49 De oscillationibus fili flexilis quotcunque pondusculis onusti presented 1736, published 1741. 
+1735
+
+E17 Rechenkunst presented 1738, published 1738. 
+E37 De motu planetarum et orbitarum determinatione presented 1734, published 1740. 
+E40 De minimis oscillationibus corporum tam rigidorum quam flexibilium. Methodus nova et facilis. presented 1734, published 1740. 
+E41 De summis serierum reciprocarum presented 1734, published 1740. 
+E46 Methodus universalis serierum convergentium summas quam proxime inveniendi presented 1736, published 1741. 
+E47 Inventio summae cuiusque seriei ex dato termino generali presented 1736, published 1741. 
+E50 Methodus computandi aequationem meridiei. Auctore L. Eulero presented 1736, published 1741. 
+E51 De constructione aequationum ope motus tractorii aliisque ad methodum tangentium inversam pertinentibus presented 1736, published 1741. 
+E52 Solutio problematum rectivicationem ellipsis requirentium presented 1736, published 1741. 
+E53 Solutio problematis ad geometriam situs pertinentis presented 1736, published 1741. 
+E830 Recensio litterarum a Cl. D. Bernoullio basilea die 26. Oct. 1735 ad me datarum, una cum annotationibus meis presented 1862, published 1862. 
+E723 Brief von Euler presented 1805, published 1805. 
+1736
+
+E16 Mechanica, volume 2 presented 1736, published 1736. 
+E54 Theorematum quorundam ad numeros primos spectantium demonstratio presented 1736, published 1741. 
+E55 Methodus universalis series summandi ulterius promota presented 1736, published 1741. 
+E56 Curvarum maximi minive proprietate gaudientium inventio nova et facilis presented 1736, published 1741. 
+E69 De communicatione motus in collisione corporum sese non directe percutientium presented 1737, published 1744. 
+1737
+
+E34 Dissertatio de igne in qua ejus natura et proprietates explicantur presented 1740, published . 
+E70 De constructione aequationum presented 1737, published 1744. 
+E71 De fractionibus continuis dissertatio presented 1737, published 1744. 
+E72 Variae observationes circa series infinitas presented 1737, published 1744. 
+E73 Solutio Problematis geometrici circa lunulas a circulis formatas presented 1737, published 1744. 
+1738
+
+E18 De Indorum anno solari astronomico presented 1738, published 1738. 
+E23 De curvis rectificabilibus algebraicis atque traiectoriis reciprocis algebraicis presented 1730, published 1738. 
+E32 Von der Gestalt der Erden presented 1738, published 1738. 
+E74 De variis modis circuli quadraturam numeris proxime exprimendi presented 1737, published 1744. 
+E76 Novae et correctae tabulae ad loca lunae computanda presented 1745, published 1745. 
+E78 Dissertation sur la meilleure construction du cabestan presented 1741, published 1745. 
+E93 Disquitio de bilancibus presented 1738, published 1747. 
+E94 De motu cymbarum remis propulsarum in fluviis presented 1738, published 1747. 
+E95 De aequationibus differentialibus, quae certis tantum casibus integrationem admittunt presented 1738, published 1747. 
+E96 De machinarum tam simplicium quam compositarum usu maxime lucroso presented 1738, published 1747. 
+E97 De attractione corporum sphaeroidico-ellipticorum presented 1738, published 1747. 
+E98 Theorematum quorundam arithmeticorum demonstrationes presented 1738, published 1747. 
+E99 Solutio problematis cuiusdam a Celeberrimo Daniele Bernoullio propositi presented 1738, published 1747. 
+E110 Scientia Navalis, volume 1 presented 1749, published 1749. 
+E111 Scientia Navalis, volume 2 presented 1749, published 1749. 
+E804 Zwei Briefe von L. Euler an G.B. Bulffinger 1738 presented 1853, published . 
+1739
+
+E57 Inquisitio physica in causam fluxes ac refluxus maris presented 1740, published 1740. 
+E122 De productis ex infinitis factoribus ortis presented 1739, published 1750. 
+E123 De fractionibus continuis observationes presented 1739, published 1750. 
+E124 Determinatio caloris et frigoris graduum pro singulis terrae locis ac temporibus. presented 1750, published . 
+E125 Consideratio progressionis cuiusdam ad circuli quadraturam inveniendam idoneae presented 1739, published 1750.
+E126 De novo genere oscillationum presented 1739, published 1750. 
+E127 Explicatio phaenomenorum quae a motu lucis successive oriuntur presented 1739, published 1750. 
+E128 Methodus facilis computandi angulorum sinus ac tangentes tam naturales quam artificiales presented 1739, published 1750. 
+E129 Investigatio curvarum quae evolutae sui similes producunt presented 1740, published 1750. 
+E130 De seriebus quibusdam considerationes presented 1740, published 1750. 
+1740
+
+E35 Einleitung zur Rechen-Kunst zum Gebrauch des Gymnasii bey der Kayserlichen Academie der Wissenschafften in St. Petersburg. presented 1734, published . 
+E36 Solutio problematis arithmetici de inveniendo numero, qui per datos numeros divisus relinquat data residua presented 1734, published 1740. 
+E38 Orbitae solaris determinatio presented 1734, published 1740. 
+E39 Solutio problematum quorundam astronomicorum presented 1734, published 1740. 
+E131 Emendatio tabularum astronomicarum per loca planetarum geocentrica presented 1740, published 1750. 
+E157 De extractione radicum ex quantitatibus irrationalibus presented 1741, published 1751. 
+1741
+
+E63 Demonstration de la somme de cette suite 1 + 1/4 + 1/9 + 1/16 … presented 1743, published 1743. 
+E132 Methodus viri celeberrimi Leonhardi Euleri determinandi gradus meridiani pariter ac paralleli telluris, secundum mensuram a celeb. de Maupertuis cum sociis institutam presented 1740, published 1750. 
+E158 Observationes analyticae variae de combinationibus presented 1741, published 1751. 
+E790 Commentatio de matheseos sublimioris utilitate presented 1843, published 1847. 
+1742
+
+E58 Determinatio orbitae cometae qui mense Martio huius anni 1742 potissimum fuit observatus presented 1743, published 1743. 
+E59 Theoremata circa reductionem formularum integralium ad quadraturam circuli presented 1743, published 1743. 
+E60 De inventione integralium, si post integrationem variabili quantitati determinatus valor tribuatur presented 1743, published 1743. 
+E61 De summis serierum reciprocarum ex potestatibus numerorum naturalium ortarum dissertatio altera, in qua eaedem summationes ex fonte maxime diverso derivantur presented 1743, published 1743. 
+E62 De integratione aequationum differentialium altiorum graduum presented 1743, published 1743. 
+E83 Sur quelques proprietes des Sections coniques qui conviennent a un infinite d'autres lignes courbes presented 1745, published 1746. 
+E108 De observatione inclinationis magneticae dissertatio, illustrissimae academiae regiae scientarum Parisinae aequissimo judicio, pro anno 1743. presented 1748, published . 
+E159 De motu oscillatorio corporum flexibilium presented 1741, published 1751. 
+E284 De resolutione aequationis dy + ayy dx = bx^m dx presented 1762, published 1764. 
+E827 De motu corporum in tubo rectilineo mobili circa axem fixum, per ipsum tubum transeuntem presented 1862, published 1862. 
+E820 Sex litterae ad Nicolaum Bernoullium II (!), Basileensem, J.U.D. datae 1742 ad 1745 presented 1862, published . 
+1743
+
+E65 Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes, sive solutio problematis isoperimetrici lattissimo sensu accepti presented 1744, published 1744. 
+E109 Dissertatio de magnete. presented 1748, published . 
+E801 Drei Briefe von L. Euler an Friedrich den Grossen 1743 presented 1862, published . 
+E828 Dissertation sur le mouvement des corps enfermes dans un tube droit, mobile autour d'un axe fixe presented 1862, published 1862. 
+E802 Einige Zeilen aus Briefen von L. Euler an Johannes Schorndorf vom 27 April 1743 und vom 26 Mai 1750 presented 1851, published ???. 
+1744
+
+E66 Theoria motuum planetarum et cometarum presented 1744, published 1744. 
+E67 Beantwortung verschiedener Fragen uber die Beschaffenheit, Bewegung und Wurckung der Cometen. presented 1744, published . 
+E68 Fortgesetzte Beantwortung der Fragen uber die Beschaffenheit, Bewegung und Wurckung der Cometen. presented 1744, published . 
+E75 Solutio problematis in Novorum Actorum Eruditorum mense novembri A. 1743 propositi presented 1744, published 1744. 
+E82 De la force de percussion et de sa veritable mesure presented 1745, published 1746. 
+E88 Nova theoria lucis et colorum presented 1746, published 1746. 
+E91 Recherches physiques sur la nature des moindres parties de la matiere presented 1746, published 1746. 
+E165 De motu corporum flexibilium presented 1744, published 1751. 
+E174 De motu corporum flexibilium presented 1751, published 1751. 
+E789 Einige Zeilen aus einem Brief von L. Euler an Albrecht von Haller vom 4 Juli 1744. presented 1843, published . 
+E836 Nouvelles Tables astronomiques pour calculer la place du soliel presented 1862, published 1862. 
+1745
+
+E77 Neue Grundsatze der Artillerie presented 1745, published 1745. 
+E79 Problema geometricum propositum publice ab Anonymo Geometra presented 1745, published 1745. 
+E87 Tabulae astronomicae solis et lunae presented 1746, published 1746. 
+E101 Introductio in analysin infinitorum, volume 1 presented 1748, published 1748. 
+E102 Introductio in analysin infinitorum, volume 2 presented 1748, published 1748. 
+E787 Solutio problematis in Actis Lipsiensibus A. 1745 propositi. presented 1847, published . 
+1746
+
+E81 Gedancken von den Elementen der Corper presented 1746, published 1746. 
+E84 Leonhardi Euleri animadversio ad libri praecedentis sec. 83 et seq. de curvis elasticis presented 1746, published 1746. 
+E85 Solutio problematis catoptrici in his actis A. 1745 Mense Septembri P. I pag. 523 propositi presented 1746, published 1746. 
+E86 De motu corporum in superficiebus mobilibus presented 1746, published 1746. 
+E89 De relaxione motus planetarum presented 1746, published 1746. 
+E90 Enodatio quaestionis utrum materiae facultas cogitandi tribui possit necne presented 1746, published 1746. 
+E107 Extract of a letter from Mr. Leonhard Euler presented 1747, published 1748. 
+E150 Meditationes in quaestionem observationibus temporis momentum determinandi presented 1747, published 1750. 
+E170 Recherches sur les racines imaginaires des equations presented 1749, published 1751. 
+E173 Nova methodus inveniendi traiextorias reciprocas algebraicas presented 1751, published 1751. 
+E194 De machinis in genere presented 1750, published 1753. 
+E247 De seriebus divergentibus presented 1754, published 1760. 
+E851 Recensio Dissertationis de ventis presented 1862, published 1862. 
+1747
+
+E92 Rettung der gottlichen Offenbahrung gegen die Einwurfe der Freygeister. presented 1747, published . 
+E100 De numeris amicabilibus presented 1747, published 1747. 
+E112 Recherches sur le mouvement des corps celestes en general presented 1747, published 1749. 
+E113 Methode pour trouver les vrais momens tant des nouvelles que des pleines lunes, par Mr. Euler presented 1747, published 1749. 
+E116 Memoire sur la force des rames presented 1747, published 1749. 
+E120 Recherches sur la question des inegalites du mouvement de Saturne et de Jupiter, suject propose pour le prix … presented 1748, published 1749. 
+E134 Theoremata dirca divisores numerorum presented 1747, published 1750. 
+E147 Sur un contradiction apparente dans la doctrine des lignes courbes presented 1748, published 1750. 
+E152 De numeris amicabilibus presented 1750, published 1750. 
+E153 Demonstratio gemina theorematis Neutoniani, quo traditur relatio inter coefficientes cuiusvis aequationis algebraicae et summas potestatum radicum eiusdem presented 1750, published 1750. 
+E164 Theoremata circa divisores numerorum in hac forma paa+_qbb contentorum presented 1744, published 1751. 
+E166 De reductione linearum curvarum ad arcus circulares presented 1749, published 1751. 
+E168 De la controverse entre Mrs. Leibniz et Bernoulli sur les logarithmes des nombres negatifs et imaginaires presented 1749, published 1751. 
+E169 Sur le point de rebroussement de la seconde espece de M. le Marquis de l'Hopital presented 1749, published 1751. 
+E172 De la parallaxe de la lune tant par rapport a sa hauteur qu'a son azimuth, dans l'hypothese de la terre spheroidique. Mar M. Euler presented 1749, published 1751. 
+E175 Decouverte d'une loi tout extraordinaire des nombres par rapport a la somme de leurs diviseurs presented 1751, published 1751. 
+E798 De numeris amicibilibus presented 1849, published 1849. 
+E807 Sur les logarithmes des nombres negativs et imaginaires presented 1862, published 1862. 
+E854 Differentes pieces sur les monades presented 1862, published 1862. 
+1748
+
+E103 Recherches physiques sur la cause de la queue (!) des cometes, de la lumiere boreale, et de la lumiere zodiacale presented 1748, published . 
+E104 Memoire sur l'effet de la propagation successive de la lumiere dans l'apparition tant des planetes que des cometes presented 1746, published 1746. 
+E105 Memoire sur la plus grande equation des planetes presented 1746, published 1748. 
+E106 Solutio problematis catoptrici in Novis Actis Eruditorum Lipsiensibus pro mense Novembri A. 1745 propositi presented 1748, published 1748. 
+E117 Reflexions sur la derniere eclipse du Soliel du 25 julliet a. 1748. Par Mr. Euler presented 1747, published 1749. 
+E118 Sur la perfection des verres objectfs des lunettes presented 1747, published 1749. 
+E119 De vibratione chordarum exercitatio presented 1749, published 1749. 
+E133 De superficie conorum scalenorum aliorumque corporum conicorum presented 1747, published 1750. 
+E135 Variae demonstrationes geometriae presented 1747, published 1750. 
+E136 De propagatione pulsuum per medium elasticum presented 1747, published 1750. 
+E137 Examen artificii navis a principio motus interno propellendi presented 1747, published 1750. 
+E138 De motu nodorum lunae eiusque inclinationis ad eclipticam variatione presented 1747, published 1750. 
+E139 Quantum motus terrae a luna perturbeter accuratius inquiritur presented 1747, published 1750. 
+E140 Sur la vibration des cordes (Traduit du Latin) presented 1748, published 1750. 
+E141 Sur l'accord des deux dernieres eclipses du soleil et de la lune avec mes tables, pour trouver les vrais momens des pleni-lunes et novi-lunes, par M. Euler presented 1748, published 1750. 
+E142 Sur l'atmosphere de la lune prouvee par la derniere eclipse annulaire du soleil. presented 1750, published . 
+E143 Sur le frottement des corps solides presented 1748, published 1750. 
+E145 Recherches sur les plus grands et plus petits qui se trouvent dans les actions des forces presented 1748, published 1750. 
+E148 Demonstration sur le nombre des points, ou deux lignes des ordres quelconques peuvent se couper. presented 1750, published . 
+E149 Reflexions sur l'espace et le tems presented 1748, published 1750. 
+E162 Methodus integrandi formulas differentiales rationales unicam variabilem involventes presented 1744, published 1751. 
+E163 Methodus facilior atque expeditior integrandi formulas differentiales rationales presented 1744, published 1751. 
+E167 Solutio problematis difficillimi a Fermatio propositi presented 1749, published 1751. 
+E212 Institutiones calculi differentialis cum eius usu in analysi finitorum ac doctrina serierum, volume 1 presented 1755, published 1755. 
+E839 De atmosphaera lunae ex eclipsi colis annulari evicta presented 1862, published 1862. 
+E850 Recherches sur la decouverte des courants de la mer presented 1862, published 1862. 
+1749
+
+E114 Methode de trouver le vrai lieu geocentrique de la lune par l'observation de l'occultation d'une etoile fixe. Par Mr. Euler presented 1747, published 1749. 
+E115 Methode de determiner la longitude des lieux par l'observation d'occultations des etoiles fixes par la lune presented 1747, published 1749. 
+E144 Sur la diminution de la resistance du frottement presented 1748, published 1750. 
+E146 Reflexions sur quelques loix generales de la nature qui s'observent dans les effets des forces quelconques presented 1748, published 1750. 
+E151 Coniectura physica circa propagationem soni ac luminis presented 1750, published 1750. 
+E154 Animadversiones in rectificationem ellipsis presented 1750, published 1750. 
+E183 Part of a letter from Leonard Euler, prof. math. at Berlin, and F.R.S. to the rev. Mr. Caspar Wetstein, chaplain to his royal highness the prince of Wales, concerning the gradual approach of the earth to the sun. presented 1752, published . 
+E184 Part of a letter from Mr. professor Euler to the reveren Mr. Wetstein, chaplain to his royal highness the prince, concerning the contraction of the orbits of the planets. presented 1752, published . 
+E189 De serierum determinatione seu nova methodus inveniendi terminos generales serierum presented 1750, published 1753. 
+E190 Consideratio quarumdam serierum, quae singularibus proprietatibus sunt praeditae presented 1750, published 1753. 
+E193 De perturbatione motus planetarum ab eorum figura non sphaerica oriunda presented 1750, published 1753. 
+E206 Sur le mouvement de l'eau par des tuyaux de conduite presented 1752, published 1754. 
+E207 Discussion plus particuliere de diverses manieres d'elever de l'eau par le moyen des pompes avec le plus grand avantage presented 1752, published 1754. 
+E228 De numeris, qui sunt aggregata duorum quadratorum presented 1752, published 1758. 
+E352 Remarques sur un beau rapport entre les series des puissances tant directes que reciproques presented 1761, published 1768. 
+E821 Duae litterae ad Fredericum II, Regem Borussorum, datae annis 1749 et 1763 presented 1862, published . 
+1750
+
+E155 Auszug eines Briefes von Hrn. Euler uber die Vorstellung der Sternenbilder auf der Himmelskugel presented 1750, published 1750. 
+E171 Recherches sur la precession des equinoxes st sur la nutation de l'axe de la terre presented 1749, published 1751. 
+E177 Decouverte d'un nouveau principe de Mecanique presented 1750, published 1752. 
+E181 Recherches sur l'origine des forces presented 1750, published 1752. 
+E188 Methodus aequationes differentiales altiorum graduum integrandi ulterius promota presented 1750, published 1753. 
+E191 De partitione numerorum presented 1750, published 1753. 
+E192 Solutio problematis geometrici presented 1750, published 1753. 
+E195 De motu tautochrono pendulorum compositorum presented 1750, published 1753. 
+E196 Emendatio laternae magicae ac microscopii solaris presented 1750, published 1753. 
+E208 Maximes pour arranger le plus avantageusement les machines destinees a elever de l'eau par le moyen des pompes presented 1752, published 1754. 
+E230 Elementa doctrinae solidorum presented 1752, published 1758. 
+E232 De motu corporum coelestium a viribus quibuscunque perturbato presented 1752, published 1758. 
+E241 Demonstratio theorematis Fermatiani omnem numerum primum formae 4n+1 esse summam duorum quadratorum presented 1754, published 1760. 
+E365 Extraits de quelques lettres d'Euler a d'Alembert presented 1768, published 1768. 
+1751
+
+E160 De descensu corporum super plano inclinato aspero presented 1741, published 1751. 
+E161 De motu corporum super plano horizontali aspero presented 1741, published 1751. 
+E178 Reflections sur les divers degres de lumiere du soleil et des autres corps celestes presented 1750, published 1752. 
+E179 Recherches sur l'effet d'un machine hydraulique proposee par M. Segner, professeur a Goettingue presented 1750, published 1752. 
+E187 Theoria motus lunae exhibens omnes eius inaequalitates. In additamento hoc idem argumentum aliter tractatur simulque … presented 1753, published 1753. 
+E202 Application de la machine hydraulique de M. Segner a toutes sortes d'ouvrages et de ses avantages sur les autres machines hydrauliques dont on se sert ordinairement presented 1751, published 1753. 
+E203 Recherche sur une nouvelle maniere d'elever de l'eau proposee par m. de Mour presented 1751, published 1753. 
+E204 Extract of a letter from professor Euler, of Berlin, to the rev. Mr. Caspar Wetstein, chaplain to her royal highness the princess Dowager of Wales presented 1753, published . 
+E229 De constructione aptissima molarum alatarum presented 1752, published 1758. 
+E231 Demonstratio nonnullarum insignium proprieatatum, quibus solida hedris planis inclusa sunt praedita presented 1752, published 1758. 
+E242 Demonstratio theorematis Fermatiani omnem numerum sive integrum sive fractum esse summam quatuor pauciorumve quadratorum presented 1754, published 1760. 
+E243 Observatio de summis divisorum presented 1754, published 1760. 
+E245 De methodo Diophanteae analoga in analysi infinitorum presented 1754, published 1760. 
+E248 De cochlea Archimedis presented 1754, published 1760. 
+E249 De aptissima figura rotarum dentibus tribuenda presented 1754, published 1760. 
+E251 De integratione aequationis differentialis mdx/V(1-x^4)=ndy/V(1-y^4) presented 1756, published 1761. 
+E260 Tentamen theoriae de frictione fluidorum presented 1756, published 1761. 
+E292 Du mouvement de rotation des corps solides autour d'un axe variable presented 1758, published 1765. 
+E332 Recherches sur le mouvement des rivieres presented 1760, published 1767. 
+E384 Recherches sur les inegalites de Jupiter et de Saturne presented 1770, published . 
+1752
+
+E176 Expose concernant l'examen de la lettre de M. de Leibnitz alleguee par M. le Professeur Koenig, dans le mois de mars, 1751 des Actes de Leipzig, a l'occasion du principe de la moindre action presented 1750, published 1752. 
+E180 Avertissement au sujet des recherches sur la precession des equinoxes presented 1750, published 1752. 
+E182 Lettre de M. Euler a M. Merain presented 1750, published 1752. 
+E185 Praefatio Euleri ad opus Examen temporum mediorum secundum principia astronomica et Chronologica institutum ab Henrico Guilielmo Clemm. Berolini 1752 presented , published ???. 
+E197 Harmonie entre les principes generaux de repos et de mouvement de M. de Maupertuis presented 1751, published 1753. 
+E199 Examen de la dissertation de M. le Professeur Koenig, inseree dans les actes de Leipzig, pour le mois de mars 1751 presented 1751, published 1753. 
+E210 A letter from Mr. John Dollond to James Short, A.M.F.R.S. presented 1753, published 1754. 
+E217 Recherches sur la veritable courbe que decrivent les corps jettes dans l'air ou dans un autre fluide quelconque presented 1753, published 1755. 
+E219 De la refraction de la lumiere en passant par l'atmosphere selon les divers degres tant de la chaleur que de l'elasticite de l'air presented 1754, published 1756. 
+E246 Subsidium calculi sinuum presented 1754, published 1760. 
+E250 Methodus inveniendi infinitas curvas isoperimetras aliave communi proprietate praeditas presented 1756, published 1761. 
+E253 De problemativus indeterminatis, quae videntur plus quam determinata presented 1756, published 1761. 
+E310 Nouvelle methode d'eliminer les quantites inconnues des equations presented 1764, published 1766. 
+E413 De promotione navium sine vi venti (Memoire sur la manier de suppleer a l'action du vent) presented 1753, published 1771. 
+E833 Determination de l'effet d'un machine hydraulique inventee par M. Segner, professeur a Goettingue presented 1862, published 1862. 
+1753
+
+7
+E198 Sur le principe de la moindre action presented 1751, published 1753. 
+E200 Essay d'une demonstration metaphysique du principe general de l'equilibre presented 1751, published 1753. 
+E201 Calcul de la probabilita dans le jeu de rencontre presented 1751, published 1753. 
+E205 Atlas Geographicus, Praefatio presented 1753, published 1753. 
+E209 Essai d'une explication physique des couleurs engendrees sur des surfaces extremement minces presented 1752, published 1754. 
+E214 Principes de la trigonometrie spherique tires de la methode des plus grands et plus petits presented 1753, published 1755. 
+E222 Theorie plus complette des machines qui sont mises en mouvement par la reaction de l'eau presented 1754, published 1756. 
+E225 Principes generaux de l'etat d'equilibre des fluides presented 1755, published 1757. 
+E252 Observationes de comparatione arcuum curvarum irrectificibilium presented 1756, published 1761. 
+E254 De expressione integralium per factores presented 1756, published 1761. 
+E257 De frictione corporum rotantium presented 1756, published 1761. 
+E258 Principia motus fluidorum presented 1756, published 1761. 
+E263 Specimen novae methodi curvarum quadraturas et rectificationes aliasque quantitates transcendentes inter se comparandi presented 1758, published 1761. 
+E282 De resolutione aequationum cuiusvis gradus presented 1762, published 1764. 
+1754
+
+E211 Problema, ad cuius solutionem geometrae invitantur; theorema, ad cuius demonstrationem geometrae invitantur presented 1754, published 1754. 
+E213 Remarques sur les memoires precedens de M. Bernoulli presented 1753, published 1755. 
+E215 Elemens de la trigonometrie spheroidique tires de la methode des plus grands et plus petits presented 1753, published 1755. 
+E216 Examen d'une controverse sur la loi de refraction des rayons de differentes couleurs par rapport a la diversite des milieux transparens par lesquels ils sont transmis presented 1753, published 1755. 
+E218 Brief von L. Euler an E Pontoppidan vom 11. Mai 1754 presented 1754, published . 
+E220 Reflexions sur un probleme de geometrie traite par quelques geometres et qui es neanmoins impossible presented 1754, published 1756. 
+E221 Recherches physiques sur la diverse refrangibilite des rayons de lumiere presented 1754, published 1756. 
+E235 Sur l'action des scies presented 1756, published 1758. 
+E236 Exposition de quelques paradoxes dans le calcul integral presented 1756, published 1758. 
+E255 Solutio generalis quorundam problematum Diophanteorum, quae vulgo nonnisi solutiones speciales admittere videntur presented 1756, published 1761. 
+E256 Specimen de usu observationum in mathesi pura presented 1756, published 1761. 
+1755
+
+E223 De la variation de la latitude des etoiles fixes et de l'obliquite de l'ecliptique presented 1754, published 1756. 
+E226 Principes generaux du mouvement des fluides presented 1755, published 1757. 
+E227 Continuation des recherches sur la theorie du mouvement des fluides presented 1755, published 1757. 
+E261 Specimen alterum methodi novae quantitates transcendentes inter se comparandi; de comparatione arcuum ellipsis presented 1758, published 1761. 
+E262 Theoremata circa residua ex divisione potestatum relicta presented 1758, published 1761. 
+E264 Demonstratio theorematis et solutio problematis in actis erud. Lipsiensibus propositorum presented 1758, published 1761. 
+E269 De integratione aequationum differentialium presented 1760, published 1763. 
+E270 Solutio problematis de investigatione trium numerorum, quorum tam summa quam productum nec non summa productorum ex binis sint numeri quadrati presented 1760, published 1763. 
+E313 Sur l'avantage du banquier au jeu de Pharon presented 1764, published 1766. 
+E414 Investigatio perturbationum quibus planetarum motus ob actionem eorum mutuam afficiuntur. presented 1749, published . 
+E846 Recherche pour servir a la perfection des lunettes presented 1862, published 1862. 
+E822 Octodecim litterae ad cel. Lagrange datae annis 1755 ad 1775 presented 1862, published . 
+1756
+
+E224 Avertissement presented 1754, published 1756. 
+E233 Recherches plus exactes sur l'effet des moulins a vent presented 1756, published 1758. 
+E239 Regles generales pour la construction des Telescopes et des Microscopes, de quelque nombre de verres qu'ils soient composes presented 1757, published 1759. 
+E240 Recherches sur les lunettes a trois verres qui representent les objets renverses presented 1757, published 1759. 
+E265 De aequationibus differentialibus secundi gradus presented 1758, published 1761. 
+E267 Extrait d'une lettre de M. Euler ecrite a M. Du Hamel le 3 Fevrier 1756 presented 1756, published 1762. 
+E276 Dilucidationes de resistentia fluidorum presented 1760, published 1763. 
+E277 Principia theoriae machinarum presented 1760, published 1763. 
+E296 Elementa calculi variationum presented 1764, published 1766. 
+E297 Analytica explicatio methodi maximorum et minimorum presented 1764, published 1766. 
+E357 Regles generales pour la construction des telescopes et des microscopes presented 1761, published 1768. 
+1757
+
+E234 Experiences pour determiner la refraction de toutes sortes de liqueurs transparentes presented 1756, published 1758. 
+E237 Recherches sur la declinaison de l'aiguille aimantee. presented 1757, published . 
+E238 Sur la force des colonnes presented 1757, published 1759. 
+E278 De motu et attrutu lentium dum super catinis poliuntur presented 1760, published 1763. 
+E281 Specimen algorithmi singularis presented 1762, published 1764. 
+E271 Theoremata arithmetica nova methodo demonstrata presented 1760, published 1763. 
+1758
+
+E274 Constructio aequationis differentio-differentialis Ay du^2 + (B+Cu)dudy + (D+Eu+Fuu)ddy = 0, sumto elemento du constante presented 1760, published 1763. 
+E275 Annotationes in locum quendam Cartesii ad circuli quadraturam spectantem presented 1760, published 1763. 
+E279 De resolutione formularum quadricarum indeterminatarum per numeros integros presented 1762, published 1764. 
+E280 De progressionibus arcuum circularium, quorum tangentes secundum certam legem procedunt presented 1762, published 1764. 
+E291 Recherches sur la connoisance mechanique des corps presented 1758, published 1765. 
+E293 Remarques generales sur le mouvement diurne des planetes presented 1758, published 1765. 
+E309 Solution d'une question curieuse que ne pariot soumise a aucune analyse presented 1849, published 1766. 
+E316 Des lunettes a trois verres qui representent les objets debout presented 1764, published 1766. 
+E336 Du mouvement d'un corps solide quelconque lorsq'il tourne autour d'un axe mobile presented 1760, published 1767. 
+E358 Sur la perfection des lunettes astronomiques qui representent les objets renverses presented 1761, published 1768. 
+E382 Remarques sur l'effet du frottement dans l'equilibre presented 1762, published 1769. 
+E415 Sur le roulis et le tangage presented 1749, published 1771. 
+E803 Vierzehn Briefe oder Auszuge aus Briefen von L. Euler an W.J.G. Karsten 1758-1765 presented 1852, published . 
+E800 Brief von L. Euler an Christoph Jezler vom 4 Mai 1765 presented 1862, published . 
+1759
+
+E272 Supplementum quorundam theorematum arithmeticorum, quae in nonnullis demonstrationibus supponuntur presented 1760, published 1763. 
+E285 Investigatio functionum ex data differentialium conditione presented 1762, published 1764. 
+E286 De motu vibratorio fili flexilis, corpusculis quotcunque onusti presented 1762, published 1764. 
+E288 Cogitationes de aggeribus construendis presented 1762, published 1764. 
+E295 De reductione formularum integralium ad rectificationem ellipsis ac hyperbolae presented 1764, published 1766. 
+E301 De motu corporis ad duo centra virium fixa attracti presented 1764, published 1766. 
+E305 De la propagation du son presented 1759, published 1766. 
+E306 Supplement aux recherches sur la propagation du son presented 1759, published 1766. 
+E307 Continuation des recherches sur la propatation du son presented 1759, published 1766. 
+E308 Recherches sur le mouvement de rotation des corps celestes presented 1759, published 1766. 
+E323 De usu novi algorithmi in problemate Pelliano solvendo presented 1765, published 1767. 
+E402 Du mouvement des absides des satellites de Jupiter. presented 1770, published . 
+E416 Meditationes in quaestionem utrum motus medius planetarum semper maneat aeque velox, an successu temporis quampiam mutationem patiatur? & quaenam sit ejus causa? … presented 1771, published . 
+E834 Astronomia mechanica adjecta Digressione de cometa A. 1757 presented 1862, published 1862. 
+1760
+
+E244 Demonstratio theorematis circa ordinem in summis divisorum observatum presented 1754, published 1760. 
+E268 Lettre de M. Euler a M. de la Grange presented 1760, published 1762. 
+E273 Consideratio formularum, quarum integratio per arcus sectionum conicarum absolvi potest presented 1760, published 1763. 
+E283 De numeris primis valde magnis presented 1762, published 1764. 
+E287 De motu vibratorio cordarum inaequaliter crassarum presented 1762, published 1764. 
+E289 Theoria motus corporum solidorum seu rigidorum presented 1765, published 1765. 
+E303 Tentamen de sono campanarum presented 1764, published 1766. 
+E314 Conjecture sur la raison de quelques dissonances generalement recues dans la musique presented 1764, published 1766. 
+E343 Lettres a un princesse d'Allemagne sur divers sujets de physique & de philosophie presented 1768, published 1768.
+1761
+
+E259 De motu et reactione aquae per tubos mobiles transfluentis presented 1756, published 1761. 
+E266 Constructio lentium obiectivarum ex duplici vitro quae neque confusionem a figura sphaerica oriundam neque dispersionem colorum pariant presented 1762, published 1762. 
+E298 De insigni promotione methodi tangentium inversae presented 1764, published 1766. 
+E299 Dilucidationes de tautochronis in medio resistente presented 1764, published 1766. 
+E300 Demonstratio theorematis Bernoulliani quod ex evolutione curvae cuiuscinque rectangulae in infinitum continuata tandem cycloides naxcantur presented 1764, published 1766. 
+E302 De motu vibratorio tympanorum presented 1764, published 1766. 
+E311 Recherches sur les microscopes simples et les moyens de les perfectionner presented 1764, published 1766. 
+E344 Lettres a un princesse d'Allemagne sur divers sujets de physique & de philosophie presented 1768, published 1768.
+E376 Considerations sur les difficultes qu'on rencontre dans l'execution des verres objectifs de toute confusion presented 1762, published 1769. 
+E351 De telescopiis quatuor lentibus instructis eorumque perfectione presented 1766, published 1768. 
+1762
+
+E304 Considerationes de motu corporum coelestium presented 1764, published 1766. 
+E312 Recherches sur les microscopes a trois verres et les moyens de les perfectionner presented 1764, published 1766. 
+E322 De usu functionum discontinuarum in analysi presented 1765, published 1767. 
+E330 Supplementum de figura dentium rotarum presented 1765, published 1767. 
+E337 Probleme. Un corps etant attire en raison reciproque quarree des distances vers deux points fixes donnes trouver les cas ou la courbe decrite par ce corps sera algebrique, resolu par M. Euler presented 1760, published 1767. 
+E349 Disquitio de vera lege refrationis radiorum diversicolorum presented 1766, published 1768. 
+E377 Recherches sur les telescopes a reflexion et les moyens de les perfectionner presented 1762, published 1769. 
+E378 Recherches sur un autre construction des telescopes a reflexion presented 1762, published 1769. 
+E379 Sur la confusion que cause dans les instrumens dioptriques la diverse refrangibilite des rayons presented 1762, published 1769. 
+E380 Considerations sur les nouvelles lunettes d'Angleterre de Mr. Dollond et sur le principe qui en est le fondement presented 1762, published 1769. 
+E398 Nouvelle methode de determiner les derangemens dans le mouvement des corps celestes, causes par leur action mutuelle. presented 1770, published . 
+E417 Lettres a une princess d'Allemagne sur divers sujets de physique & de philosophie Tome troisieme A Saint Petersbourg de l'imprimerie de l'academie imperiale des sciences MDCCLXXII presented 1771, published . 
+1763
+
+E320 Recherches sur la construction des nouvelles lunettes a 6 et 6 verres et leur perfection ulterieure presented 1762, published 1766. 
+E324 Proprietates triangulorum, quorum anguli certam inter se tenent rationem presented 1765, published 1767. 
+E325 Solutio facilis problematum quorundam geometricorum difficillimorum presented 1765, published 1767. 
+E326 Observationes analyticae presented 1765, published 1767. 
+E327 De motu rectilineo trium corporum se mutuo attrahentium presented 1765, published 1767. 
+E328 De motu corporis ad duo centra virium fixa attracti presented 1765, published 1767. 
+E329 De phaenomenis coeli per segmenta sphaerica diaphana spectati presented 1765, published 1767. 
+E333 Recherches sur la courbure des surfaces presented 1760, published 1767. 
+E342 Institutiones calculi differentialis cum eius usu in analysi finitorum ac doctrina serierum, volume 2 presented , published . 
+E350 De novo microscopiorum genere ex sex lentibus composito presented 1766, published 1768. 
+E366 Institutiones calculi differentialis cum eius usu in analysi finitorum ac doctrina serierum, volume 3 presented , published . 
+E371 Considerationes de theoria motus Lunae perficienda et imprimis de eius variatione presented 1768, published 1769. 
+E372 Annotatio quarundam cautelarum in investigatione inaequalitatum quibus corpora coelestia in motu perturbantur observandarum presented 1768, published 1769. 
+E373 Investigatio accuratior phaenomenorum quae in motu terrae diurno a viribus coelestibus produce possunt presented 1768, published 1769. 
+E374 De aequilibrio et motu corporum flexuris elasticis iunctorum presented 1768, published 1769. 
+E385 Institutionum calculi integralis volumen tertium presented 1770, published 1770. 
+E399 Reflexions sur les diverses manieres don’t on peut representer le mouvement de la lune. presented 1770, published . 
+E812 Reflexions sur un espece singuliere de loterie, nommee Loterie Genoise presented 1862, published 1862. 
+E821 Duae litterae ad Fredericum II, Regem Borussorum, datae annis 1749 et 1763 presented 1862, published . 
+E365 Extraits de quelques lettres d'Euler a d'Alembert presented 1768, published 1768. 
+E351 De telescopiis quatuor lentibus instructis eorumque perfectione presented 1766, published 1768. 
+1764
+
+E315 Du veritable caractere de la musique moderne presented 1764, published 1766. 
+E331 De motu fluidorum a diverso caloris gradu oriundo presented 1765, published 1767. 
+E359 Construction des objectifs composes de deux differentes sortes de verre qui ne produisent aucune confusion presented 1766, published 1768. 
+1765
+
+E290 Geometria dalya ipotrevleniya v academycheskoi gymnazii presented 1758, published . 
+E294 Remarques de M. Euler sur quelques passages qui se trouvent dans le troisieme volume des opuscules mathematiques de M. d'Alembert presented 1765, published 1765. 
+E317 Eclaircissemens sur le mouvement des cordes vibrantes presented 1762, published 1766. 
+E318 Recherches sur le mouvement des cordes inegalement grosses presented 1762, published 1766. 
+E319 Recherches sur l'integration de l'equation (ddz/dt^2)=aa(ddz/dx^2)+b/x(dz/dx)+c/xx z presented 1762, published 1766. 
+E321 Observationes circa integralia formularum int x^(p-1)dx(1-x^n)^(q/n-1) posito post integrationem x=1 presented 1762, published 1766. 
+E339 Sur le mouvement d'un corde, que au commencement n'a ete ebranlee que dans un partie presented 1765, published 1767. 
+E340 Eclaircissemens plus detailles sur la generation et la propagation du son et sur la formation de l'echo presented 1765, published 1767. 
+E345 Integratio aequationis dx/V(A+Bx+Cx^2+Dx^3+Ex^4)=dy/V(A+By+Cy^2+Dy^3+Ey^4) presented 1766, published 1768. 
+E346 De arcubus curvarum aeque amplis earumque comparatione presented 1766, published 1768. 
+E347 Evolutio generalior formularum comparationi curvarum inservientium presented 1766, published 1768. 
+E348 Nethodus facilis motus corporum coelestium utcunque perturbatos ad rationem calculi astronomici revocandi presented 1766, published 1768. 
+E361 Reflexions sur la maniere d'examiner la refraction du verre par le moyen des prismes presented 1766, published 1768. 
+E362 Corrections necessaires pour la theorie de la declinaison magnetique, proposee dans le XIII volume des Memoires. presented 1765, published . 
+E368 De curva hypergeometrica hac aequatione expressa y=1*2*3*…*x presented 1768, published 1769. 
+E369 Quomodo numeri praemagni sint explorandi, utrum sint primi necne presented 1768, published 1769. 
+E400 Considerations sur le probleme des trois corps. presented 1770, published . 
+E430 Observationes circa aequationem differentialem ydy+Mydx+Ndx=0 presented 1772, published 1773. 
+E844 Theorie generale de al dioptrique presented 1862, published 1862. 
+E800 Brief von L. Euler an Christoph Jezler vom 4 Mai 1765 presented 1862, published . 
+1766
+
+E360 Construction des objectifs composes propre a detruire toute la confusion dans les lunettes presented 1766, published 1768. 
+E375 Sectio prima de statu aequilibrii fluidorum presented 1768, published 1769. 
+E396 Sectio secunda de principiis motus fluidorum presented 1769, published 1770. 
+E401 Nouvelle maniere de comparer les observations de la lune avec la theorie. presented 1770, published . 
+E409 Sectio tertia de motu fluidorum lineari potissimum aquae presented 1770, published 1771. 
+E424 Sectio quarta de motu aeris in tubis presented 1771, published 1772. 
+1767
+
+E334 Recherches generales sur la mortalite et la multiplication du genre humain presented 1760, published 1767. 
+E335 Sur les rentes viageres presented 1760, published 1767. 
+E338 Sur la probabilte des sequences dans la lotterie Genoise presented 1765, published 1767. 
+E341 (341A)Nachricht von einem neuen Mittel zur Vermehrung des Getreides presented 1775, published 1775. 
+E370 Nova criteria radices aequationum imaginarias discoscendi presented 1768, published 1769. 
+E387 Vollstandige Anleitung zur Algebra presented 1770, published 1770. 
+E388 Vollstandige Anleitung zur Algebra, book 2 presented 1770, published 1770. 
+1768
+
+E353 Recherches sur la confusion des verres dioptriques causee par leur ouverture presented 1761, published 1768. 
+E354 Recherches sur les moyens de diminuer ou de reduire meme a rien la confusion causee par l'ouverture des verres presented 1761, published 1768. 
+E355 Nouvelle maniere de perfectionner les verres objectifs des lunettes presented 1761, published 1768. 
+E356 Determination du champ apparent que decouvrent tant les telescopes que les microscopes presented 1761, published 1768. 
+E363 Precis d'une theorie generale de la dioptrique presented 1765, published 1768. 
+E364 Lettre ecrite a l'academie royale des sciences de Berlin presented 1768, published 1768. 
+E367 Dioptricae pars prima continens lubrum primum de explicatione principiorum, ex quibus constructio tam telescopiorum quam microscopiorum est petenda presented 1769, published 1769. 
+E386 Dioptricae pars secunda continens lubrum secundum de constructione telescopiorum dippticorum cum appendice de constructione telescopiorum catoptico-dioptricorum presented 1770, published 1770. 
+E390 Considerationes de traiectoriis orthogonalibus presented 1769, published 1770. 
+E391 De formulis integralibus duplicatis presented 1769, published 1770. 
+E392 Evolutio insignis paradoxi circa aequatlitatem superficierum presented 1769, published 1770. 
+E393 De summis serierum numeros Bernoullianos involventium presented 1769, published 1770. 
+E394 De partitione numerorum in partes tam numero quam specie datas presented 1769, published 1770. 
+E395 De inventione quotumque mediarum proportionalium citra radicum extractionere presented 1769, published 1770. 
+E404 ??Appendice de constructione telescopiorum catoptrico-dioptricorum presented 1770, published 1770. 
+E418 Theoria motuum lunae presented 1772, published 1772. 
+1769
+
+E381 Sur les avantages des verres objectifs composes de deux verres simples presented 1762, published 1769. 
+E383 Methode pour porter les verres objectifs des lunettes a un plus haut degre de perfection presented 1767, published 1769. 
+E403 Des Herrn Leonhard Eulers nothige Berechnung zur Einrichtung einer Witwencasse presented 1770, published 1770. 
+E485 Reponse a la question proposee par l'academie royale des sciences de Paris, pour l'annee 1770. presented 1777, published . 
+1770
+
+E389 Recherches et calculs sur la vraie orbite elliptique de le comete de l'an 1769 et son tems periodique presented 1770, published 1770. 
+E397 Expositio methodorum, cum pro determinanda parallaxi solis ex observato transitu Veneris per solem, tum pro inveniendis longitudinibus locorum super terra, ex observationibus eclipsium solis, una cum calculis et conclusionibus inde deductis presented 1769, published 1770. 
+E405 Solutio problematis, quo duo quaeruntur numeri, quorum productum tam summa quam differentia eorum sive auctum sive minutum fiat quadratum presented 1770, published 1771. 
+E407 Problema algebraicum ob affectiones prorsus singulares memorabile presented 1770, published 1771. 
+E408 De curva rectificabili in superficie sphaerica presented 1770, published 1771. 
+E412 Solution d'une question tres difficile dans le calcul des probabilites presented 1769, published 1771. 
+E419 De solidis quorum superficiem in planum explicare licet presented 1771, published 1772. 
+1771
+
+E406 Observationes circa radices aequationum presented 1770, published 1771. 
+E410 Genuina principia doctrinae de statu aequilibrii et motu corporum tam perfecte flesibilium quam elasticorum presented 1770, published 1771. 
+E411 De ictu glandium contra tabulam explosarum presented 1770, published 1771. 
+E420 Methodus nova et facilis calculum variationum tractandi presented 1771, published 1772. 
+E421 Evolutio formulae integralis int x^(f-1) dx (lx)^(m/n) integratione a valore x=0 ad x=1 extensa presented 1771, published 1772. 
+E422 Problematis cuiusdam geometrici prorsus singularis evolutio presented 1771, published 1772. 
+E423 Considerationes cyclometricae presented 1771, published 1772. 
+E433 Digressio de traiectoriis tam orthogonalibus quam obliquangulis presented 1772, published 1773. 
+E474 Solutio quorundam problematum Diophanteorum presented 1775, published 1776. 
+E476 Observationes circa novum et singulare progressionum genus presented 1775, published 1776. 
+E477 Meditationes circa singulare serierum genus presented 1775, published 1776. 
+E486 Reponse a la question proposee par l'academie royale des sciences de Paris, pour l'annee 1772. presented 1777, published . 
+E501 Considerationes circa brachystochronas presented 1777, published 1780. 
+E550 De seriebus, in quibus producta ex minis terminis contiguis datam constituunt progressionem presented 1783, published 1783. 
+1772
+
+E425 De perturbatione motus terrae ab actione Veneris oriunda presented 1771, published 1772. 
+E427 Problematis cuiusdam Diophantei evolutio presented 1772, published 1773. 
+E428 Observationes circa bina biquadrata, quorum summam in duo alia biquadrata resolvere liceat presented 1772, published 1773. 
+E429 De variis integrabilitatis generibus presented 1772, published 1773. 
+E431 Consideratio aequationis differentio-differentialis (a+bx)ddz+c+ex)dxdz/x+(f+gx)zdx^2/xx=0 presented 1772, published 1773. 
+E432 Exercitationes analyticae presented 1772, published 1773. 
+E436 De vera tautochrona in fluido presented 1772, published 1773. 
+E437 De tautochrona in medio rarissimo, quod resistit in ratione multiplicata quacunque celeritatis presented 1772, published 1773. 
+E438 Dilucidationes de tautochronismo presented 1772, published 1773. 
+E439 De chordis vibrantibus disquisitio ulterior presented 1772, published 1773. 
+E440 Animadversiones in solutionem Bernoullianam de motu chordarum ex duabus partibus diversae crassitiei compositarum Tomo XVI Novorum Commentariorum presented 1772, published 1773. 
+E441 De motu vibratorio chordarum ex partibus quotcunque diversae crassitiei compositarum presented 1772, published 1773. 
+E442 De motu vibratorio chordarum crassitie utcunque variabili praeditarum presented 1772, published 1773. 
+E443 De motu vibratorio laminarum elasticarum, ubi plures novae vibrationum species hactenus non pertractatae evolvuntur presented 1772, published 1773. 
+E444 De motu gravium citissimo super curvis specie datis presented 1772, published 1773. 
+E445 Novae demonstrationes circa resolutionem numerorum in quadrata presented 1773, published 1773. 
+E448 Nova series infinita maxime convergens perimetrum ellipsis exprimens presented 1773, published 1774. 
+E449 Demonstrationes circa residua ex divisione potestatum per numeros primos resultantia presented 1773, published 1774. 
+E450 Nova ratio quantitates irrationales proxime exprimendi presented 1773, published 1774. 
+E451 Solutio problematis de inveniendo triangulo, in quo rectae ex singulis angulis latera opposita bisecantes sint rationales presented 1773, published 1774. 
+E452 Resolutio aequationis Ax^2+2Bxy+Cy^2+2Dx+2Ey+F=0 per numeros tam rationales quam integros presented 1773, published 1774. 
+E453 Insignes proprietates serierum sub hoc termino generali contentarum x=1/2(a+b/Vk)(p+qVk)^n + 1/2(a-bVk)(p-qVk)^n presented 1773, published 1774. 
+E454 De resolutione irrationalium per fractiones continuas, ubi simul nova quaedam et singularis species minimi exponitur presented 1773, published 1774. 
+E458 Nova methodus motus planetarum principalium ad tabulas astronomicas reducendi presented 1773, published 1774. 
+E551 Varia artificia in serierum indolem inquirendi presented 1783, published 1783. 
+E552 Observationes circa divisionem quadratorum per numeros primos presented 1783, published 1783. 
+E553 Observationes analyticae presented 1783, published 1783. 
+E554 Disquitio accuratior circa residua ex divisione quadratorum altiorumque potestatum per numeros primos relicta presented 1783, published 1783. 
+E555 De eximio usu methodi interpolationum in serierum doctrina presented 1783, published 1783. 
+E556 De criteriis aequationis fxx+gyy=hxx, utrum ea resolutionem admittat necne? presented 1783, published 1862. 
+E832 Von der Kraft der Rammen, Pfahle einzuschlagen presented 1862, published 1862. 
+1773
+
+E426 Theorie complette de la construction et de la manoeuvre des vaisseaux presented 1773, published 1773. 
+E434 De collisione corporum gyrantium presented 1772, published 1773. 
+E435 De collisione corporum pendulorum, tam obliqua, quam motu gyratorio perturbata presented 1772, published 1773. 
+E447 Summatio progressionum sin phi^2 + sin 2phi^2 + …, cos phi^2 + cos 2phi^2 + … presented 1773, published 1774. 
+E455 Determinatio motus oscillatorii in praecedente dissertatione pertracti, ex primus mechanicae principiis petita presented 1773, published 1774. 
+E456 De pressione ponderis in planum cui incumbit presented 1773, published 1774. 
+E457 De harmoniae veris principiis per speculum musicum repraesentatis presented 1773, published 1774. 
+E465 Demonstratio theorematis Neutoniani de evolutione potestatum binomii pro casibus, quibus exponentes non sunt numeri integri presented 1774, published 1775. 
+E557 De quibusdam eximiis proprietatibus circa divisores potestatum occurrentibus presented 1783, published 1783. 
+E558 Proposita quacunque protressione ab unitate incipiente, quaeritur quot eius terminos a dminimum addi oporteat, ut omnes numeri producantur presented 1783, published 1783. 
+E559 Nova subsidia pro resolutione formulae axx+1=yy presented 1783, published 1783. 
+E560 Miscellanea analytica presented 1783, published 1783. 
+E561 Variae observationes circa angulos in progressione geometrica progredientes presented 1783, published 1783. 
+E563 De ellipsi minima dato parallelogrammo rectangulo circumscribenda presented 1780, published 1784. 
+1774
+
+E446 Instruction detaillee pour porter les lunettes de toutes les differentes especes au plus haut degre de perfection dont elles sont susceptibles presented 1774, published 1774. 
+E459 Disquitio de lentibus obiectivis triplicatis, quae vel nullam confusionem pariant vel etiam datam confusionem a reliquis lentibus ortam destruere valeant presented 1773, published 1774. 
+E460 De applicatione lentium obiectivarum compositarum ad omnis generis telescopia presented 1773, published 1774. 
+E461 Extrait d'un lettre de M. Euler le pere a M. Bernoulli concernant le memoire imprime parmi ceux de 1771 p 318 presented 1772, published 1774. 
+E462 De valore formulae integralis int (x^m-1 +_ z^m-n-1)/(1+_z^n) dz casu quo post integrationem ponitur z=1 presented 1774, published 1775. 
+E463 De valore formulae integralis int (z^l-w +_ x^l+w)/(1+_z^2l)*(dz/z)(lz)^u casu quo post integrationem ponitur z=1 presented 1774, published 1775. 
+E464 Nova methodus quantitates integrales determinandi presented 1774, published 1775. 
+E466 Problema Diophanteum singulare presented 1774, published 1775. 
+E467 De tabula numerorum primorum usque ad millionem et ultra continuanda, in qua simul omnium numerorum non primorum minimi divisores exprimantur presented 1774, published 1775. 
+E468 De oscillationibus minimis penduli quotunque pondusculis onusti presented 1774, published 1775. 
+E469 De motu oscillatorio binarum lancium ex libra suspensarum presented 1774, published 1775. 
+E470 Explicatio motus oscillatorii mirabilis in libra maiore observati presented 1774, published 1775. 
+E471 De motu turbinatorio chordarum musicarum; ubi simul universa theoria aequilibrii quam motus corporum flexibilium simulque etiam elasticorum breviter explicatur presented 1774, published 1775. 
+E475 Speculationes analyticae presented 1775, published 1776. 
+E481 De gemina methodo tam aequilibrium quam motum corporum flexibilium determinandi et utriusque egregio consensu presented 1775, published 1776. 
+E493 Vera theoria refractionis et dispersionis radiorum rationibus et experimentis confirmata presented 1777, published 1778. 
+E505 De corporibus regularibus per doctrinam sphaericam determinatis; ubi simul nova methodus globos sive coelestes sive terrestres charta obducendi traditur presented 1778, published 1780. 
+E513 De curvis triangularibus presented 1778, published 1781. 
+E525 De motu oscillatorio mixto plurium pendulorum ex eodem corpore mobili suspensorum presented 1779, published 1782. 
+E526 Investigatio motuum, quibus laminae et virgae elasticae contremiscunt presented 1779, published 1782. 
+E533 De motu oscillatorio pendulorum ex filo tenso dependentium presented 1779, published 1783. 
+E535 Determinatio omnium motuum, quos chorda tensa et uniformiter crassa recipere potest presented 1779, published 1783. 
+E544 De motu libero plurium corporum filis colligatorum super plano horizontali presented 1780, published 1783. 
+E562 Quomodo sinus et cosinus angulorum multiplorum per producta exprimi queant presented 1783, published 1783. 
+E567 Dilucidationes de motu chordarum inaequaliter crassarum presented 1780, published 1784. 
+E576 De oscillationibus minimis funis libere suspensi presented 1781, published 1784. 
+E577 De perturbatione motus chordarum ab earum pondere oriunda presented 1781, published 1784. 
+E586 Considerationes super theoremate Fermatiano de resolutione numerorum in numeros polygonales presented 1785, published 1785. 
+1775
+
+E472 Commentatio hypothetica de periculo a nimia cometae approponquatione metuendo presented 1774, published 1775. 
+E478 Formulae generales pro translatione quacunque corporum rigidorum presented 1775, published 1776. 
+E479 Nova methodus motum corporum rigidorum degerminandi presented 1775, published 1776. 
+E480 Regula facilis pro diiudicanda firmitate pontis aliusve corporis similis excognita firmitate moduli presented 1775, published 1776. 
+E482 De pressione funium tensorum in corpora subiecta eorumque motu a frictione impedito. Ubi praesertim methodus traditur … presented 1775, published 1776. 
+E483 De traiectu citissimo stellae per duos circulos almucantarath datos pro qualibet elevatione poli. Auctore L. Eulero presented 1775, published 1776. 
+E484 De circulo maximo fixo in coelo constituendo, ad quem orbitae planetarum et cometarum referantur. Auctore L. Eulero presented 1775, published 1776. 
+E490 De repraesentatione superficiei sphaericae super plano presented 1777, published 1778. 
+E491 De proiectione geographica superficiei sphaericae presented 1777, published 1778. 
+E492 De proiectione geographica Deslisliana in mappa generali imperii russici usitata presented 1777, published 1778. 
+E504 De Theoria Lunae ad maiorem perfectionis gradum evehenda presented 1777, published 1778. 
+E514 De mensura angulorum solidorum presented 1778, published 1781. 
+E516 De motu oscillatorio duorum corporum ex filo super trochleas traducto suspensorum presented 1778, published 1781. 
+E519 Nova methodus motum planetarum determinandi presented 1778, published 1781. 
+E522 De formatione fractionum continuarum presented 1779, published 1782. 
+E534 Dilucidationes super aliquot casus aequilibrii difficiliores presented 1779, published 1783. 
+E536 De proprietatibus triangulorum mechanicis presented 1779, published 1783. 
+E538 Cautiones necessariae in determinatione motus planetarum observandae presented 1779, published 1783. 
+E539 Supplementum calculi integralis pro integratione formularum irrationalium presented 1780, published 1783. 
+E540 Nova methodus fractiones quascumque rationales in fractiones simplices resolvendi presented 1780, published 1783. 
+E541 Evolutio producti infiniti (1-x)(1-xx)(1-x^3)(1-x^4)(1-x^5)etc in seriem simplicem presented 1780, published 1783. 
+E542 De mirabilis proprietatibus numerorum pentagonalium presented 1780, published 1783. 
+E545 De vi fluminis ad naves sursum trahendas applicanda presented 1780, published 1783. 
+E546 De statu aequilibrii maris a viribus solis et lunae sollicitati. presented 1780, published . 
+E564 Speculationes circa quasdam insignes proprietates numerorum presented 1780, published 1784. 
+E565 De plurimis quantitatibus transcendentibus, quas nullo modo per formulas integrales exprimere licet presented 1780, published 1784. 
+E566 De inductione ad plenam certitudinem evehenda presented 1780, published 1784. 
+E572 Nova methodus integrandi formulas differentiales rationales sine subsidio quantitatum imaginariarum presented 1781, published 1784. 
+E573 De duplici genesi tam epicycloidum quam hypocycloidum presented 1781, published 1784. 
+E581 Plenior explicatio circa xomparationem quantitatum in formula integrali intZdz/V(1+mzz+nZ^4) contentarum denotante Z functionem quamcunque rationalem ipsius zz presented 1781, published 1785. 
+E582 Uberior evolutio comparationis, quam inter arcus sectionum conicarum instituere licet presented 1781, published 1785. 
+E585 De effectu frictionis in motu volutorio presented 1781, published 1785. 
+E587 Observation in aliquot theoremata illustrissimi de la Grange presented 1785, published 1785. 
+E588 Investigatio formulae integralis intx^m-1dx/(1+x^k(^n casu, quo post intagrationem statuitur x=infinity presented 1785, published 1785. 
+E589 Onvestigatio valoris integralis int x^m-1dx/a=2x^kcosQ+x^2k a termino x=0 ad x=infiniti extensi presented 1785, published 1785. 
+E590 Theoremata quaedam analytica, quorum demonstratio adhuc desideratur presented 1785, published 1785. 
+E591 De relatione inter ternas pluresve quantitates instituenda presented 1785, published 1785. 
+E592 De resolutione fractionum transcendentium in infinitas fractiones simplices presented 1785, published 1785. 
+E593 De transformatione serierum in fractiones continuas, ubi simul haec theoria non mediocriter amplificatur presented 1785, published 1785. 
+E594 Methodus inveniendi formulas integrales, quae certis casibus datam inter se teneant rationem, ubi sumul methodus traditur fractiones continuas summandi presented 1785, published 1785. 
+E595 Summatio fractionis continuae cuius indices progressionem arithmeticam constituunt dum numeratores omnes sunt unitates ubi simul resolutio aequationis Riccatianae per huiusmodi fractiones docetur presented 1785, published 1785. 
+E596 De summa seriei ex numeris primis formatae 1/3-1/5+1/7+1/11-1/13 … ubi numeri primi formae 4n-1 habent signum positivum, formae autem 4n+1signum negativum presented 1785, published 1785. 
+E597 De seriebus potestatum reciprocis methodo nova et facillima summandis presented 1785, published 1785. 
+E598 De insigni promotione scientiae numerorum presented 1785, published 1785. 
+E601 De symptomatibus quatuor punctorum, in eodem plano sitorum presented 1782, published 1786. 
+E602 Methodus facilis omnia symptomata linearum curvarum non in eodem plano sitarum investigandi presented 1782, published 1786. 
+E603 De descensu baculi super hypomochlio cylindro fixo delabentis presented 1782, published 1786. 
+E604 De traiectoriis reciprocis tam rectangulis quam obliquangulis presented 1782, published 1786. 
+E605 De miris proprietatibus curvae elasticae sub aequatione y=intxxdx/V(1-x^4) presented 1782, published 1786. 
+E606 Speculationes super formula integrali int x^ndx/V(aa-2bx+cxx), ubi simul egregiae observationes circa fractiones continuas occurrunt presented 1782, published 1786. 
+E607 De motu globi circa axem obliquum quemcunque gyrantis et super p;;;;lano horizontali incedentis presented 1782, published 1786. 
+E608 Accuratior evolutio formularum pro filorum flexibilium aequilibrio et motu inventarum presented 1782, published 1786. 
+E609 Considerationes super traiectoriis tam rectangulis quam obliquangulis presented 1783, published 1787. 
+E610 Novae demonstrationes circa divisores numerorum formae xx+nyy presented 1783, published 1787. 
+E611 Investigatio curvarum quae similes sint suis evolutis vel primis vel secundis vel tertiis vel adeo ordinis cuiuscunque presented 1783, published 1787. 
+E612 De motu globi heterogenei super plano horizontali, una cum dilucidationibus necessariis super motu vacillatorio presented 1783, published 1787. 
+E614 Commentatio de curvis tractoriis presented 1784, published 1788. 
+E615 De curvis tractoriis compositis presented 1785, published 1788. 
+E618 Consideratio motus singularis, qui in filo perfecte flexili locum habere potest presented 1784, published 1788. 
+E619 Enodatio difficultatis super figura terrae a vi centrifuga oriunda. presented 1785, published . 
+E634 De motu oscillatorio tabulae suspensae et a vento agitatae presented 1786, published 1789. 
+E855 Principia pro motu sanguinis per arterias determinando presented 1862, published 1862. 
+E521 Theoremes analytiques. Extraits de differents lettres de M. Euler a M. le Marquis de Condorcet presented 1778, published 1781. 
+1776
+
+E473 Eclarcissemens sur les etablissemens publics en faveur tant des veuves que des morts, avec la description d'une nouvelle espece de Tontine aussi favorable au Public qu'utile a l'Etat. presented 1776, published 1776. 
+E487 Reflections de M. L. Euler sur quelques nouvelles experiences optiques, communiquees a l'academie des sciences, par Mr. Wilson presented 1777, published 1778. 
+E488 Observationes in praecedentem dissertationem illustris Bernoulli presented 1777, published 1778. 
+E496 De figura apparente annuli Saturni pro eius loco quocunque respectu terrae. Auctore L. Eulero presented 1777, published 1778. 
+E497 De apparitione et disaparitione annuli Saturni. Auctore L. Eulero presented 1777, published 1778. 
+E499 De integratione formulae int dxlx/V(1-xx) ab x=0 ad x=1 extensa presented 1777, published 1780. 
+E500 De valore formulae integralis int x^a-1dx/lx (1-x^b)(1-x^c)/1-x^n a termino x=0 usque ad x=1 extensae presented 1777, published 1780. 
+E503 De motu oscillatorio penduli cuiuscunque, dum arcus datae amplitudinis absolvit presented 1777, published 1780. 
+E508 Determinatio onerum, quae columnae gestare valent presented 1778, published 1780. 
+E532 De serie Lambertine plurimisque eius insignibus proprietatibus presented 1779, published 1783. 
+E547 Determinatio facilis orbitae cometae, cuius transitum per eclipticam bis observare licuit presented 1780, published 1783. 
+E568 De motu penduli circa axem cylindricum, fulcro datae figurae incumbentem, mobilis. Remota frictione presented 1780, published 1784. 
+E569 De motu penduli circa axem cylindricum, fulcro datae figurae incumbentem, mobilis. Habita frictionis ratione presented 1780, published 1784. 
+E574 De curvis rectificabilibus in superficie coni recti ducendis presented 1781, published 1784. 
+E575 De mirabilibus proprietatibus unciarum, quae in evolutione binomii ad potestatem quamcunqua evecti occurrunt presented 1781, published 1784. 
+E578 De perturbatione motus planetarum et cometarum. presented 1784, published . 
+E583 De numero memorabili in summatione progressionis harmonicae naturalis occurrente presented 1781, published 1785. 
+E584 De insignibus proprietatibus unciarum binomii ad uncias quorumvis polynomiorum extensis presented 1781, published 1785. 
+E599 Solutio quaestionis ad calculum probabilitatis pertinentis: Quantum duo coniuges persolvere debeant, ut suis haeredibus post utriusque mortem certa argenti summa persolvatur presented 1785, published 1785. 
+E616 De transformatione seriei divergentis 1-mx+m(m+n)x^2-m(m+n)(m+2n)x^3+etc in fractionem continuam presented 1784, published 1788. 
+E617 De summatione serierum, in quibus terminorum signa alternantur presented 1784, published 1788. 
+E620 Methodus facilis inveniendi integrali huius formulae int dx/x (x^n+p-2x^ncosz+x^n-p)/(x^2n-2x^ncosQ+1) casu, post integrationem ponitur vel x=1 vel x=infinity presented 1785, published 1788. 
+E621 De summo usu calculi imaginariorum in analysi presented 1785, published 1788. 
+E622 Specimen singulare analyseos infinitorum indeterminatae presented 1785, published 1788. 
+E623 De lineis rectificabilibus in superficie sphaeroidica quacunque geometrice ducendis presented 1785, published 1788. 
+E624 De superficie coni scaleni, ubi imprimis intentes difficultates, quae in hac investigatione occurrunt, perpenduntur presented 1785, published 1788. 
+E625 De viribus centripetis, ad curvas non in eodem plano sitas describendas, requisitis presented 1785, published 1788.
+E626 De motu trium corporum se mutuo attrahentium super eadem linea recta. presented 1785, published . 
+E629 Evolutio formulae integralis int dx(1/1-x+1/Lx) a termino x=0 ad x=1 extensae presented 1786, published 1789. 
+E630 Uberior explicatio methodi singularis nuper expositae integralia alias maxime abscondita investigandi presented 1786, published 1789. 
+E631 Analysis facilis et plana ad eas series maxime abstrusas perducens, quibus omnium aequationum algebraicarum non solum radices ipsae sed etiam quaevis earum potestates exprimi possunt presented 1786, published 1789. 
+E632 De innumeris generibus serierum maxime memorabilium, quibus omnium aequationum algebraicarum non solum radices ipsae sed etiam quaecumque earum potestates exprimi possunt presented 1786, published 1789. 
+E633 De binis curvis algebraicis inveniendis, quarum arcus indefinite inter se sint aequales presented 1786, published 1789. 
+E635 Innumera theoremata circa formulas integrales, quorum demonstratio vires analyseos superare videatur presented 1787, published 1789. 
+E636 De multiplicatione angulorum per factores expedienda presented 1787, published 1789. 
+E637 Nova demonstratio, quod evolutio potestatum binomii Newtoniana etiam pro exponentibus fractis valeat presented 1787, published 1789. 
+E638 De innumeris curvis algebraicis, quarum longitudinem per arcus parabolicos metiri licet presented 1787, published 1789. 
+E639 De innumeris curvis algebraicis, quarum longitudinem per arcus parabolicos metiri licet presented 1787, published 1789. 
+E640 Comparatio valorum formulae integralis int x(p-1dx/nV(1-x^n)^n-q a termino x=0 usque ad x=1 extensae presented 1787, published 1789. 
+E642 De singulari ratione differentiandi et intagrandi, quae in summis serierum occurrit presented 1788, published 1790.
+E643 Methodus generalis investigandi radices omnium aequationum per approximationem presented 1788, published 1790. 
+E644 Innumerae aequationum formae ex omnibus ordinibus, quarum resolutio exhiberi potest presented 1788, published 1790. 
+E645 De curvis algebraicis, quarum longitudo exprimitur hac formula integrali int v^m-1dv/V(1-v^2n) presented 1788, published 1790. 
+E646 De duabus pluribusve curvis algebraicis in quibus si a terminis fixis aequales arcus abscindantur eorum amplitudines datam inter se teneant rationem presented 1788, published 1790. 
+E647 De methodo tangentium inversa ad theoriam solidorum translata presented 1788, published 1790. 
+E650 De formulis differentialibus quae per duas pluresve quantitates datas multiplicatae fiant integrabiles presented 1789, published 1793. 
+E651 Quatuor theoremata maxime notatu digna in calculo integrali presented 1789, published 1793. 
+E652 De termino generali serierum hypergeometricarum presented 1789, published 1793. 
+E653 De iterata integratione formularum integralium, dum aliquis exponens pro variabili assumitur presented 1789, published 1793. 
+E654 Methodus facilis investigandi radium osculi ex principio maximorum et minimorum petita presented 1789, published 1793. 
+E661 Variae considerationes circa series hypergeometricas presented 1790, published 1794. 
+E662 De vero valore formulae integralis int dx(L(1/x)^n a termino x=0 usque ad terminum x=1 extensae presented 1790, published 1794. 
+E663 Plenior expositio serierum illarum memoragilium, quae ex unciis potestatum binomii formantur presented 1790, published 1794. 
+E664 Exercitatio analytica presented 1790, published 1794. 
+E668 De integratione formulae dxV(a+x^4)/1-x^4 aliarumque eiusdem generis per logarithmos et arcus circulares presented 1794, published 1794. 
+E795 De quadratis magicis presented 1849, published 1849. 
+E521 Theoremes analytiques. Extraits de differents lettres de M. Euler a M. le Marquis de Condorcet presented 1778, published 1781. 
+1777
+
+E489 De formulis exponentialibus replicatis presented 1777, published 1778. 
+E494 De figura quam ventus fluido stagnanti inducere valet presented 1777, published 1778. 
+E495 Considerationes super problemate astronomico in tomo commentarior. veter. IV. pertractato. Auctore L. Eulero presented 1777, published 1778. 
+E506 Dilucidationes super methodo elegantissima, qua illustris de la Grange usus est in integranda aequatione differentiali dx/VX=dy/VY presented 1778, published 1780. 
+E507 De infinities infinitis gradibus tam infinite magnorum quam infinite parvorum presented 1778, published 1780. 
+E511 Reflexions sur les inegalites dans le mouvement de la Terre causees par l'action de Venus; avec un Table des corrections du Lieu de la Terre presented 1778, published 1780. 
+E548 De variis motuum generibus, qui in satellitibus planetarum locum habere possunt. presented 1783, published . 
+E549 De motibus maxime irregularibus, qui in systemate mundano locum habere possent, una cum methodo hujusmodi motus per temporis spatium quantumvis magnum prosequendi. presented 1783, published . 
+E570 De inventione longitudinis locorum ex observata lunae distantia a quadam stella fixa cognita. Auctore L. Eulero presented 1780, published 1783. 
+E628 Eclaircissemens sur le memoire de Mr de La Grange insere dans le V volume des Melanges de Turin, concernant la methode de prendre le milieu entre les resultats de plusiers observations etc. presented 1785, published 1788. 
+E655 Observationes generales circa series, quarum termini secundum sinus vel cosinus angulorum multiplorum progrediuntur presented 1789, published 1793. 
+E656 De integrationibus maxime memorabilibus ex calculo imaginariorum oriundis presented 1789, published 1793. 
+E657 Supplementum ad dissertationem praecedentem circa integrationem vormulae int z^m-1dz/1-z^n casu quo ponitur z=v(cos phi+V-1 sin phi) presented 1789, published 1793. 
+E665 Evolutio problematis cuius solutio analytica est difficillima dum synthetica per se est obvia presented 1790, published 1794. 
+E666 Problema geometricum ob singularia symptomata imprimis memorabile presented 1790, published 1794. 
+E667 De curvis hyperbolicis quae intra suas assymtotas spatium finitum includunt presented 1790, published 1794. 
+E669 Memorabile genus formularum differentialium maxime irrationalium quas tamen ad rationalitatem perducere licet presented 1794, published 1794. 
+E671 De formulis differentialibus angularibus maxime irrationalibus, quas tamen per logarithmos et arcus circulares integrare licet presented 1794, published 1794. 
+E676 Methodus succinctior comparationes quantitatum transcendentium in forma int Pdz/V(A+2Bz+Czz+2Dz^3+Ez^4) contentarum inveniendi presented 1794, published 1794. 
+E683 De singulari genere quaestionum Diophantearum et methodo maxime recondita eas resolvendi presented 1791, published 1795. 
+E684 De radicibus aequationis infinitae 0=1=x^2/n(n+1)+x^4/n(n+1)(n+2)(n+3)-x^6/n…(n+5)+etc…. presented 1791, published 1795. 
+E685 Exercitatio analytica, ubi imprimis seriei maxime generalis summatio traditur presented 1791, published 1795. 
+E686 Dilucidationes super formulis, quibus sinus et cosinus angulorum multiplorum exprimi solent, ubi simul ingentes difficultates diluuntur presented 1791, published 1795. 
+E687 De insignibus proprietatibus formularum integralium praeter binas variabiles etiam earum differentialia cuiuscunque ordinis involventium presented 1791, published 1795. 
+E688 Specimen integrationis abstrusissimae hac formula int dx/(1+x)4V(2xx-1) contentae presented 1791, published 1795. 
+E689 Integratio formulae differentialis maxime irrationalis, quam tamen per logarithmos et arcus circulares expedire licet presented 1791, published 1795. 
+E690 Evolutio formulae integralis int dz(3+zz)/(1+zz)4V(1+6zz+z^4) per logarithmos et arcus circulares presented 1791, published 1795. 
+E691 Problema geometricum quo inter omnes ellipses quae per data quatuor puncta traduci possunt ea quaeritur quae habet aream minimam presented 1791, published 1795. 
+E692 Solutio problematis maxime curiosi quo inter omnes ellipses quae circa datum triangulum circumscribi possunt ea quaeritur cuius area sit omnium minima presented 1791, published 1795. 
+E693 De centro simulitudinis presented 1791, published 1795. 
+E694 Ulterior disquitio de formulis integralibus imaginariis presented 1792, published 1797. 
+E695 Integratio succincta formulae integralis maxime memorabilis int dz/(3+-zz)3V(1+-3zz) presented 1792, published 1797. 
+E696 De casubus quibus hanc formulam x^4+kxxyy+y^4 ad quadratum reducere licet presented 1792, published 1797. 
+E697 Investigatio superficierum quarum normales ad datum planum productae sint omnes inter se aequales presented 1792, published 1797. 
+E700 De formulis differentialibus secundi gradus quae integrationem admittunt presented 1793, published 1798. 
+E701 Formae generales differentialium, quae, etsi nulla substitutione rationales reddi possunt. tamen integrationem per logarithmos et arcus circulares admittunt presented 1793, published 1798. 
+E702 De novo genere quaestionum arithmeticarum pro quibus solvendis certa methodus adhuc desideratur presented 1793, published 1798. 
+E703 Methodus facilis inveniendi series per sinus sosinusve angulorum multiplorum procedentes, quarum usus in universa theoria astronomiae est amplissimus presented 1793, published 1798. 
+E704 Disquisitio ulterior super seriebus secundum multipla cuiusdam anguli progredientibus presented 1793, published 1798. 
+E707 De insigni usu calculi imaginariorum in calculo integrali presented 1794, published 1801. 
+E721 De integrationibus difficillimis, quarum integralia tamen aliunde exhiberi possunt presented 1797, published 1805. 
+E724 Recherches sur quelques integrations remarquables dans l'analyse des fonctions a deux variables connues sous le nom de differences partielles presented 1799, published 1806. 
+E785 Integration d'une espece remarqable d'equation differentielle dans l'analyse des fonctions a deux variables presented 1830, published 1830. 
+1778
+
+E498 Extrait d'un lettre de M. Euler a M. Beguelin en mai 1778 presented 1776, published 1779. 
+E502 Sur l'effet de la refraction dans les observations terrestres presented 1777, published 1780. 
+E509 Examen insignis paradoxi in theoria columnarum occurentis presented 1778, published 1780. 
+E510 De altitudine columnarum sub proprio pondere corruentium presented 1778, published 1780. 
+E672 Theorema maxime memoragile circa formulam integralem int d phi cos L phi/(1+aa-2acosPhi)^n+1 presented 1794, published 1794. 
+E673 Disquitio coniecturalis super formula integrali int d phi cos i ohi/(a+b cos phi)^n presented 1794, published 1794. 
+E674 Demonstratio theorematis insignis per coniecturam eruti circa intagrationem formulae int d phi cos i phi/(1+aa-2acos phi)^n+1 presented 1794, published 1794. 
+E679 De formulis integralibus implicatis earumque evolutione et transformatione presented 1794, published 1794. 
+E698 Variae speculationes super area triangulorum sphaericorum presented 1792, published 1797. 
+E699 Utrum hic numerus 100009 sit primus necne inquiritur presented 1792, published 1797. 
+E708 De formulis speciei mxx+nyy ad numeros primos explorandos idoneis earumque mirabilibus proprietatibus presented 1794, published 1801. 
+E709 De evolutione potestatis polynomialis cuiuscunque (1+x+x^2+x^3+x^4+etc)^n presented 1794, published 1801. 
+E710 Specimen transformationis singularis serierum presented 1794, published 1801. 
+E711 Methodus nova ac facilis omnium aequationum algebraicarum radices non solum ipsas sed etiam quascumque earum potestates per series concinnas exprimendi presented 1794, published 1801. 
+E712 De corporibus cylindricis incurvatis presented 1794, published 1801. 
+E713 Investigatio trianguli in quo distantiae angulorum ab eius centro gravitatis rationaliter exprimantur presented 1794, published 1801. 
+E714 Exempla quarundam memorabilium aequationum differentialium, quas adeo algebraice integrare licet, etiamsi nulla via pateat variabiles a se invicem separandi presented 1795, published 1802. 
+E715 De variis modis numeros praegrandes examinandi, utrum sint primi necne? presented 1795, published 1802. 
+E716 Resolutio formulae diophanteae ab(maa+nbb)=cd(mcc+ndd) per numeros rationales presented 1795, published 1802. 
+E718 Facillima methodus plurimos numeros primos praemagnos inveniendi presented 1797, published 1805. 
+E719 Methodus generalior numeros quosvis satis grandes perscrutandi utrum sint primi necne? presented 1797, published 1805. 
+E720 Observatio singularis circa aequationes differentiales lineares presented 1797, published 1805. 
+E722 Disquitiones analyticae super evolutione potestatis trinomialis (1+x+xx)^n presented 1797, published 1805. 
+E725 Illustratio paradoxi circa progressionem numerorum idoneorum sive congruorum presented 1799, published 1806. 
+E726 Demonstratio insignis theorematis numerici circa uncias potestatum binomialium presented 1799, published 1806. 
+1778
+E739 Regula facilis problemata Diophantea per numeros integros expedite resolvendi presented 1811, published 1813. 
+E744 De divisoribus numerorum in forma mxx+nyy contentorum presented 1812, published 1815. 
+1779
+
+E530 Recherches sur un nouvelle espece de quarres magiques presented 1782, published 1782. 
+E627 Solutio problematis mechanici presented 1785, published 1788. 
+E641 De motu quodam maxime memorabili, satis quidem simplici, at solutu difficillimo presented 1787, published 1789. 
+E648 Solutio facilis problematis, quo quaeritur circulus, qui datos tres circulos tangat presented 1788, published 1790. 
+E670 De resolutione formulae integralis int x^m-1 dx(del+x^n)^L in seriem semper convergentem, ubi simul plura insignia artificia circa serierum summationem explicantur presented 1794, published 1794. 
+E677 Methodus singularis resolvendi aequationes differentiales secundi gradus presented 1794, published 1794. 
+E705 Investigatio quarundam serierum, quae ad rationem peripheriae circuli ad diametrum vero proxime definiendam maxime sunt accommodatae presented 1793, published 1798. 
+E706 De novo genere serierum rationalium et valde convergentium, quibus ratio peripheriae ad diametrum exprimi potest presented 1793, published 1798. 
+E727 Accuratior evolutio problematis de linea brevissima in superficie quacunque ducenda presented 1799, published 1806. 
+E728 De resolutione fractionum compositarum in simpliciores presented 1803, published 1809. 
+E729 Dilucidationes super Problemate geometrico de quadrisectione trianguli a Iacobo Bernoulli olum tractato presented 1803, published 1809. 
+E730 Solutio completa problematis de quadrisectione trianguli per duas rectas inter se normales presented 1803, published 1809. 
+E731 Solutio problematis ob singularia calculi artivicia memorabilis presented 1807, published 1810. 
+E732 Solutio facilior problematis Diophantei circa triangulum, in quo rectae ex angulis latera opposita bisecantes rationaliter exprimantur presented 1807, published 1810. 
+E733 Solutio facilis problematis, quo quaeritur sphaera, quae datas quatuor sphaeras utcunque dispositas contingat presented 1807, published 1810. 
+E734 Integratio aequationis differentialis huius dy+yydx=Adx/(a+2bx+cxx)^2 presented 1809, published 1811. 
+E735 De insigni paradoxo, quod in analysi maximorum et minimorum occurrit presented 1809, published 1811. 
+E736 De summatione serierum in hac forma contentarum a/1+a^2/4+a^3/9+a^4/16+a^5/25_a^6/36+etc presented 1809, published 1811. 
+E737 De transformatione functionum duas variabiles involventium dum earum loco aliae binae variabiles introducuntur presented 1809, published 1811. 
+E738 Solutio quaestionis curiosae ex doctrina combinationum presented 1809, published 1811. 
+E740 De lineis curvis non in eodem plano sitis, quae maximi minimive proprietate sunt praeditae presented 1811, published 1813. 
+E741 Analysis facilis aequationem Riccatianam per fractionem continuam resolvendi presented 1813, published 1818. 
+E742 Observationes circa fractiones continuas in hac forma contentas S=n/1+n+1/2+n+2/3+n+3+4+etc presented 1811, published 1813. 
+E743 De serie maxime memorabili, qua potestas binomialis quaecunque exprimi potest presented 1811, published 1813. 
+1780
+
+E512 Investigatio perturbationum quae in motu terrae ab actione Veneris producunter: cum tabula perturbationum istarum presented 1778, published 1780. 
+E515 De casibus quibusdam maxime memorabilibus in analysi indeterminata, ubi imprimis insignis usus calculi angulorum in analysi Diophantea ostenditur presented 1778, published 1781. 
+E517 De problemate quodam mechanico, satis obvio, at solutu difficillimo presented 1778, published 1781. 
+E518 Solutio gemina problematis, quo motus corporis, filo alicubi alligati, super plano horizontali quaeritur presented 1778, published 1781. 
+E523 De tribus numeris quadratis, quorum tam summa quam summa productorum ex binis sit quadratum presented 1779, published 1782. 
+E527 Conjectura circa naturam aeris, pro explicandis phaenomenis in atmosphaera observatis. presented 1779, published . 
+E529 Theoria parallaxeos, ad figuram terrae sphaeroidicam accomodata presented 1779, published 1782. 
+E571 De eclipsibus solaribus in superficie terrae per proiectionem repraesentandis. Auctore L. Eulero presented 1780, published 1784. 
+E613 Dilucidationes in capita postrema calculi mei differentalis de functionibus inexplicabilibus presented 1813, published 1813. 
+E649 De motu oscillatorio penduli circa axem cylindricum plano horizontali incumbentem presented 1788, published 1790. 
+E658 De momentis virium respectu axis cuiuscunque inveniendis; ubi plura insignia symptomata circa binas rectas, non in eodem plano sitas, explicantur presented 1789, published 1793. 
+E659 Methodus facilis omnium virium momenta respectu axis cuiuscunque determinandi presented 1789, published 1793. 
+E678 Methodus nova investigandi omnes casus quibus hance aequationem differentialem ddy(1-axx)-bxdxdy-cydx^2=0 resolvere licet presented 1794, published 1794. 
+E745 De fractionibus continuis Wallisii presented 1812, published 1815. 
+E746 Methodus succincta summas serierum infinitarum per formulas differentiales investigandi presented 1812, published 1815. 
+E747 De seriebus memorabilibus, quibus sinus et cosinus angulorum multiplorum exprimere licet presented 1812, published 1815. 
+E748 Investigatio quadrilateri, in quo singularum angulorum sinus datam inter se teneant rationem, ubi artificia prorsus singularia in Analysi Diophantea occurrunt presented 1812, published 1815. 
+E749 Geometrica et sphaerica quaedam presented 1812, published 1815. 
+E750 Commentatio in fractionem continuam, qua illustris La Grange potestates binomiales expressit presented 1813, published 1818. 
+E751 Analysis facilis aequationem Riccatianam per fractionem continuam resolvendi presented 1813, published 1818. 
+E752 De integralibus quibusdam inventu difficillimis presented 1813, published 1818. 
+E753 Solution succincta et elegans problematis, quo quaeruntur tres numeri tales, ut tam summae quam differentiae binorum sint quadrata presented 1813, published 1818. 
+E758 De binis formulis speciei xx + myy et xx + nyy inter se concordibus et discordibus presented 1817, published 1822.
+E759 Investigatio accuratior circa brachystochronas presented 1817, published 1822. 
+E760 De vera brachystochrona seu linea celerrimi descensus in medio resistente presented 1817, published 1822. 
+E761 De brachystochrona in medio resistente, dum corpus ad centrum virium utunque attrahitur presented 1817, published 1822. 
+E763 De tribus pluribusve numeris inveniendis, quorum summa sit quadratum, quadratorum vero summa biquadratum presented 1819, published 1824. 
+E764 Resolutio facilis quaestionis difficillimae, qua haec formula maxime generalis vvzz(axx+byy)^2 + delxxyy(avv+bzz)^2 ad quadratum reduci postulatur presented 1819, published 1824. 
+E769 Solutio problematis Fermatiani de duobus numeris, quorum summa sit quadratum, quadratorum vero summa biquadratum, ad mentem illustris La Grange adornata presented 1821, published 1826. 
+E772 De insigni promotione Analysis Diophantaeae presented 1830, published 1830. 
+E773 Solutio problematis difficillimi, quo hae duae formulae aaxx + bbyy et aayy + bbxx quadrata reddi debent presented 1830, published 1830. 
+E774 Investigatio binorum numerorum formae xy(x^4-y^4), quorum productum sive quotus sit quadratum presented 1830, published 1830. 
+E775 De binis numeris, quorum summa sive aucta sive minuta tam unius quam alterius quadrato producat quadrata presented 1830, published 1830. 
+E776 Dilucidationes circa binas summas duorum biquadratorum inter se aequales presented 1830, published 1830. 
+E777 De resolutione huius aequationis 0=a+bx+cy+dxx+exy+fyy+gxxy+hyy+ixxyy per numeros rationales presented 1830, published 1830. 
+E778 Methodus nova et facilis formulas cubicas et biquadriticas ad quadratum reducendi presented 1830, published 1830. 
+E843 Constructio manometri densitatem aeris quovis tempore accurate monstrantis presented 1862, published 1862. 
+1781
+
+E520 Essai d'une theorie de la resistance qu'eprouve la proue d'un vaisseau dans son mouvement presented 1778, published 1781. 
+E524 Trigonometria sphaerica universa, ex primis principiis breviter et dilucide derivata presented 1779, published 1782.
+E600 Solutio quarundam quaestionum difficiliorum in calculo probabilium presented 1785, published 1785. 
+E675 De valoribus integralium a termino variabilis x=0 usque ad x=inf extensorum presented 1794, published 1794. 
+E680 De aequationibus differentialibus cuiuscunque gradus quae denuo differentiatae integrari possunt presented 1794, published 1794. 
+E681 Specimen aequationum differentialium indefiniti gradus earumque integrationis presented 1794, published 1794. 
+E766 Methodus nova et generalis problema synchronarum inversum aliaque eiusdem generis resolvendi presented 1819, published 1824. 
+E767 De curvis quarum radii osculi tenent rationem duplicatam distantiae a puncto fixo earumque mirabilibus proprietatibus presented 1819, published 1824. 
+E768 De unciis potestatum binomii earumque interpolatione presented 1819, published 1824. 
+E770 Enodatio maximi paradoxi, in problemate quodam mechanico occurentis presented 1821, published 1826. 
+E771 Solutio trium problematum difficiliorum ad methodum tangentium inversam pertinentium presented 1821, published 1826. 
+E779 Solutio problematis ad analysin infinitorum indeterminatorum referendi presented 1830, published 1830. 
+E780 De infinitis curvis algebraicis, quarum longitudo indefinita arcui elliptico aequatur presented 1830, published 1830. 
+E781 De infinitis curvis algebraicis, quarum longitudo arcui parabolico aequatur presented 1830, published 1830. 
+E782 De binis curvis algebraicis eadem rectificatione gaudentibus presented 1830, published 1830. 
+E783 De curvis algebraicis, quarum omnes arcus per arcus circulares metiri liceat presented 1830, published 1830. 
+1781
+E796 Recherches sur le problem de trois nombres carres tels que la somme de deux quelconques moins le troisieme fasse un nombre carre presented 1849, published 1849. 
+E797 Recherches ulterueures et tres curieuses sur le probleme de quatre nombres positifs et un proportion arithmetique tels que la somme de deux quelconques soit toujours un nombre carre presented 1849, published 1849. 
+1782
+
+E537 De figura curvae elasticae contra obiectiones quasdam Illustris d'Alembert presented 1779, published 1783. 
+E543 Problematis cuiusdam Pappi Alexandrini constructio presented 1780, published 1783. 
+E717 Solutio problematis mechanici presented 1795, published 1802. 
+E754 Probleme de geometrie resolu par l'analyse de Diophante presented 1815, published 1820. 
+E755 De casibus, quibus formulam x^4 + mxxyy + y^4 ad quadratum reducere licet presented 1815, published 1820. 
+E756 Solutio problematis mechanici non parum curiosi presented 1815, published 1820. 
+E757 De problemate traiectoriarum orthogonalium ad superficies translato presented 1815, published 1820. 
+E784 Solutio problematis analytici difficillimi presented 1830, published 1830. 
+1783
+
+E579 Calculs sur les ballons aerostatiques, faits par le feu M. Euler, tels qu'on les a trouves sur son ardoise, apres sa mort arrivee le 7 septembre 1783 presented 1784, published 1784. 
+E682 Von dem Drucke eines mit einem Gewuchte beschwerten Tisches auf einer Flache. Aus den Papieren des sel. Leonhard Euler gozogen von Jakob Bernoulli presented 1794, published 1794. 
+Date of writing unknown or unlisted by Enestrom
+
+E528 Annotatio in praecendentem dissertationem. presented 1849, published . 
+E64 Leonhardus Eulerus mathematicus acutissimus ad auctorem presented 1742, published 1742. 
+E80 Opuscula varii argumenti. presented 1746, published . 
+E121 Conjectura physica circa propagationem soni ac luminis una cum aliis dissertationibus analyticis De numeris amicabilibus De natura aequationum, ac De rectificatione ellipsis. presented 1750, published . 
+E156 Opusculorum tomus III. continens novam theoriam magnetis ab illustr. academia regia scient: Parisina praemio condecoratam a. 1744. presented 1751, published . 
+E186 Dissertation sur le principe de la moindre action, avec l'examen des objections de M. le Professeur Koenig faites contre ce principe. 186=198+199 presented , published ???. 
+E531 Opuscula analytica. Tomus primus. Petropoli typis academiae imperialis scientiarum MDCCLXXXIII. presented 1782, published . 
+E580 Opuscula analytica. Tomus secundus. Petropoli typis academiae imperialis scientiarum MDCCLXXXV. presented 1784, published . 
+E660 Institutionum calculi integralis volumen quartum, continens supplementa partim inedita partim jam in operibus academiae imperialis scientiarum Petropolitanae impressa. presented 1790, published . 
+E762 Lettera inedita di Eulero a Lagrange presented 1819, published . 
+E765 De problemate curvarum synchronarum, eiusque imprimis inverso presented 1819, published 1824. 
+E786 Oeuvres completes en francais de L. Euler presented 1853, published . 
+E791 Commentationes arithmeticae collectae presented 1846, published . 
+E792 Tractatus de numerorum doctrina capita sedecim, quae supersunt presented 1849, published 1849. 
+E793 Considerationes circa Analysin Diophanteam presented 1849, published 1849. 
+E794 Theorema arithmeticum eiusque demonstratio presented 1862, published 1849. 
+E799 Fragmenta commentationis cuiusdam maioris, de invenienda relatione enter latera triangulorum, quorum area rationaliter exprimi possit, et de triangulo in quo rectae ex singulis angulis latera opposita bisecantes sint rationales presented 1849, published 1849. 
+E805 Opera Postuma mathematica et physica presented 1854, published . 
+E806 Fragmenta arithmetica ex Adversariis mathematicis depromta presented 1860, published . 
+E808 Problema algebraicum de inveniendis quatuor numeris ex datis totidem productis uniuscuiusque horum numerorum in summas trium reliquorum presented 1862, published 1862. 
+E809 Series maxime idoneae pro circuli quadratura proxime invenienda presented 1862, published 1862. 
+E810 Enodatio insignis cuiusdam paradoxi circa multiplicationem angulorum observati presented 1862, published 1862. 
+E811 Vera aestimatio sortis in ludis presented 1862, published 1862. 
+E813 Analyse d'un probleme du calcul des probabilites presented 1862, published 1862. 
+E814 Institutionum calculi differentialis sectio III presented 1862, published 1862. 
+E815 Problematis ex theoria maximorum et minimorum solutio presented 1862, published 1862. 
+E816 Considerations sur quelques formules integrales dont les valeurs peuvent etre exprimees, en certains cas, par la quadrature du cercle presented 1862, published 1862. 
+E817 De lineis curvis, quarum rectificatio per datam quadraturam mensuratur presented 1862, published 1862. 
+E818 De comparatione arcuum curvarum irrectificabilium presented 1862, published 1862. 
+E819 Continuatio fragmentorum ex Adversariis mathematicis depromptorum presented 1862, published 1862. 
+E823 Statica presented 1862, published 1862. 
+E824 Vera vires existimandi ratio presented 1862, published 1862. 
+E825 De motu corporum circa punctum fixum mobilium presented 1862, published 1862. 
+E826 De motu corporum super superficiebus mobilibus presented 1862, published 1862. 
+E829 De motu corporum in tubis circa punctum fixum mobilibus presented 1862, published 1862. 
+E831 De oscillationibus annulorum elasticorum presented 1862, published 1862. 
+E835 Solutio duorum problematum, Astronomiam mechanicam spectantium presented 1862, published 1862. 
+E837 De emendatione tabularum lunarium per observationes eclipsium lunae presented 1862, published 1862. 
+E838 Tria capita ex opere quodam majori inedito de theoria lunae presented 1862, published 1862. 
+E840 De motu cometarum in orbitis parabolicis, solem in foco habentibus presented 1862, published 1862. 
+E841 Recherche des inegalites causees au mouvement des planetes par des forces quelconques presented 1862, published 1862. 
+E842 Anleitung zur Naturlehre presented 1862, published 1862. 
+E845 Sept chapitres d'un ouvrage de dioptrique presented 1862, published 1862. 
+E847 De amplificatione campi apparentis in telescopiis presented 1862, published 1862. 
+E848 De la construction des microscopes presented 1862, published 1862. 
+E849 Reflexions sur la determination de la Declinaison de la Boussole presented 1862, published 1862. 
+E852 Meditatio de formatione vocum presented 1862, published 1862. 
+E853 Meditatio in experimenta explosione tormentorum nuper instituta presented 1862, published 1862. 
+E856 (856A)Fragmentum ex adversariis mathematicis depromtum presented 1862, published 1862. 

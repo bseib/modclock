@@ -20,6 +20,9 @@ There are three "hot spots" you can click on to type in labels. One in the upper
 one below the input `B`, and one below the `e` and `mod n` area. There is also an `×` in the
 upper right to dismiss the calculator and remove it from the screen.
 
+Also, for the `Base` and `exponent` fields, if you press the `h` key it will toggle the number
+as hidden, showing purple squares instead of digits. Used for the dramatic reveal!
+
 Click the `new solver2` link at the top to get a variation of a solver -- one that solves
 the form `B^e*d mod n`. It also computes and displays the product of `e*d` after values are
 supplied. Good for illustrating putting `M` in and getting `M` back out.
