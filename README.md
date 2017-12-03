@@ -7,10 +7,10 @@ show RSA. These calcualtors can also be annotated to show where numbers are
 coming from.
 
 ## Mod Power Calculators Page
-https://bseib.github.io/modclock/modexp.html
+[https://bseib.github.io/modclock/modexp.html](https://bseib.github.io/modclock/modexp.html)
 
 ## Mod Clock Page
-https://bseib.github.io/modclock/modclock.html
+[https://bseib.github.io/modclock/modclock.html](https://bseib.github.io/modclock/modclock.html)
 
 
 
