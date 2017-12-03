@@ -43,4 +43,10 @@ The `Render` button will draw the circle again, clean slate.
 
 The `Mark` button will compute the answer for the current values of `n`, `B`, and `e` and plot that one answer.
 
+## Hack Lafayette Thunder Talks
+
+![Hack Lafayette](https://bseib.github.io/modclock/doc/hack-lafayette-thunder-dec2017.png)
+
+Here are the [slides](https://docs.google.com/presentation/d/1lLE33MC89vuK8gfgl6Beuvu1Mvgl1YLdjTyCK-LcINw/edit?usp=sharing) I presented at Hack Lafayette's December 2017 Thunder Talks.
+
 
